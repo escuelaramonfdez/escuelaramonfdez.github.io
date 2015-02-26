@@ -35,6 +35,7 @@ Trabajaremos sobre las herramientas que aporta el feminismo para la transición 
 # Metodología
 Para trabajar sobre estos temas utilizaremos una metodología basada en la reflexión, el análisis y la construcción colectiva de conocimientos y herramientas. 
 Cada tema se trabajará en tres momentos:
+
 1- Introducción al tema. Se realizará una breve presentación de introducción y contextualización. 
 2- Reflexión y Análisis. Se hará una hará una reflexión y análisis conjunto dinamizada por un equipo facilitador. 
 3- Construcción de propuestas. Se propondrán instrumentos y herramientas conjuntas para abordar la problemática. 
