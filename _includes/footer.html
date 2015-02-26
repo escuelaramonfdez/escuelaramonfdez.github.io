@@ -1,0 +1,51 @@
+<footer class="notepad-site-footer">
+    <div class="copyright">
+	  <section><a class="icon-ghost" href={{ site.url }}/contacto>Contacto</a> &nbsp;&bull;&nbsp; <a class="icon-ghost" href="{{ site.url }}/organizadores">Organizadores</a></section>
+         <section>Publicado con <a class="icon-ghost" href="https://jekyllrb.com/">Jekyll</a> y el tema  <a class="icon-ghost" href="http://hmfaysal.github.io/">Notepad</a> {{ site.time | date: '%Y' }}</section>
+    </div>
+    <div class="social-icons">
+        
+        {% if site.owner.twitter %}
+        <a href="http://twitter.com/{{ site.owner.twitter }}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-twitter fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+        {% if site.owner.google_plus %}
+        <a href="{{ site.owner.google_plus }}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-google-plus fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+        {% if site.owner.instagram %}
+        <a href="http://instagram.com/{{ site.owner.instagram }}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-instagram fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+        {% if site.owner.github %}
+        <a href="http://github.com/{{ site.owner.github }}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-github fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+        {% if site.owner.facebook %}
+        <a href="http://facebook.com/{{ site.owner.facebook }}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-facebook fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+    </div>
+    
+    <div class="cf"></div>
+</footer>
