@@ -3,7 +3,7 @@ description:      "La Escuela de los Movimientos Sociales"
 logo:             logo.png
 disqus_shortname: escuelaramonfdez
 share:            true
-dropcap:                        true
+#dropcap:          true
 
 baseurl:        /
 url:       
