@@ -26,21 +26,22 @@ Si quieres saber más de él, visita el [blog La Explosión del Desorden](https:
 <img src="/images/recuerdo_ramon.jpg" alt="Dibujo de recuerdo de Ramón Fernández Durán"/>
 </div>
 
->Faltaban 5 días como faltan hoy,  
-para que las calles estallaran.  
-Y Ramón que preparó la revuelta durante años,  
-usó los ojos indignados de su gente querida para verlo.  
-No estuvo Ramón,  
-y sin estar estuvo más presente que los que teníamos los dos pies en la plaza.  
-Estuvo caminando en la manifestación,  
-haciendo rodar un euro gigante que dice las verdades de la Unión Europea,  
-en las asambleas de economía,  
-escuchando, hablando pausado, debatiendo,  
-estuvo en la pancarta que colgaron las feministas,  
-y preparando la comida, lavando cacharros, colocando toldos para el sol.  
-Y ahí sigue Ramón, pisando suavemente la plaza,  
-estando sin estar,  
-digno,  
-coherente,  
-luchador.  
+><div style="font-family:Satisfy; font-size:1.5rem">
+Faltaban 5 días como faltan hoy,<br/>
+para que las calles estallaran.<br/>
+Y Ramón que preparó la revuelta durante años,<br/>
+usó los ojos indignados de su gente querida para verlo.<br/>
+No estuvo Ramón,<br/>
+y sin estar estuvo más presente que los que teníamos los dos pies en la plaza.<br/>
+Estuvo caminando en la manifestación,<br/>
+haciendo rodar un euro gigante que dice las verdades de la Unión Europea,<br/>
+en las asambleas de economía,<br/>
+escuchando, hablando pausado, debatiendo,<br/>
+estuvo en la pancarta que colgaron las feministas,<br/>
+y preparando la comida, lavando cacharros, colocando toldos para el sol.<br/>
+Y ahí sigue Ramón, pisando suavemente la plaza,<br/>
+estando sin estar,<br/>
+digno,<br/>
+coherente,<br/>
+luchador.<br/>
 Libre.
