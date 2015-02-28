@@ -16,9 +16,9 @@ La escuela tendrá lugar en Monleras, un bonito pueblo de los Arribes del Duero 
 # Alojamiento
 Existen tres tipos de alojamientos:
 
-- Casas rurales o bungalow (precio variable)
-- Albergue (precio)
-- Colchonetas (gratis)
+- Colchonetas (gratis).
+- Albergue [La Cabañuela](http://www.lacabanuela.es/) (14€ por persona y noche). Sólo hay 22 plazas.
+- Casas rurales o bungalows (cada uno lo autogestiona):  <http://www.arribes.net/hospedaje.php/>
 
 # Alimentación
 La comida correrá a cargo de la Asociación de Desarrollo Comunitario (ASDECOBA) de Salamanca.
