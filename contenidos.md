@@ -9,7 +9,7 @@ comments: true
 
 # Temas
 
-Acontinuación tienes los temas que abordaremos cada día en la edición 2015
+A continuación tienes los temas que abordaremos cada día en la edición 2015
 
 ### Jueves 2 de abril
 Tema: La Espiral de la Energía. 

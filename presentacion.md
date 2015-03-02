@@ -5,14 +5,14 @@ title: Presentación
 description: "Presentación de la Escuela Social Ramón Fernández Durán"
 ---
 # ¿Qué es la Escuela Social Ramón Fernández Durán?
-La Escuela Social Ramón Fernández Durán surge en homenage al pensador y activista Ramón Fernández Durán.
+La Escuela Social Ramón Fernández Durán surge en homenaje al pensador y activista Ramón Fernández Durán.
 
 Se trata de un espacio autogestionado de conocimiento mutuo, relación, y reflexión para la acción social y colectiva entre gente inquieta que nos apetece juntarnos y compartir: "qué estamos haciendo" para "hacer juntas"; discutir, reír, divertirnos, construir y deconstruir,... Soñando muchos mundos donde la justicia social, la igualdad, la solidaridad, el respeto por el medio ambiente y las personas, sean utopías a alcanzar.
 
 Si tienes inquietud por cambiar este sistema capitalista inhumano y te apetece compartir reflexiones y análisis sociopolíticos, así como propuestas para transitar juntas hacia otros mundos más humanos y sustentables, no lo dudes, este es tu sitio. 
 
 # ¿Quiénes han puesto en marcha esta escuela?
-Esta escuela ha sido fundada por Ecologistas en Acción, CGT y Baladre, pero está abierta y quiere contar con todos los colectivo y movimientos sociales, así que si tu colectivo está interesado en participar en su organización, no dudes en contactar con nosotros. 
+Esta escuela ha sido fundada por Ecologistas en Acción, CGT y Baladre, pero está abierta y quiere contar con todos los colectivos y movimientos sociales, así que si tu colectivo está interesado en participar en su organización, no dudes en contactar con nosotros. 
 
 # ¿Quién era Ramón Fernández Durán?
 Ramón Fernández Durán, fue un pensador crítico y activista precursor de los movimientos sociales y fundador de Ecologistas en Acción. 

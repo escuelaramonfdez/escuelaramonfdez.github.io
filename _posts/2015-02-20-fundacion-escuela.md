@@ -9,7 +9,7 @@ imagefeature:
 comments: true
 ---
 
-Los colectivos Ecologistas en Acción, CGT y Baladre, hemos decidido fundar una Escuela Social en homenage a nuestro querido compañero Ramón Fernández Durán. Ramón mantuvo una relación muy estrecha con estos tres colectivos y sirvió de puente para unirnos en muchas de las luchas de las últimas décadas, especialmente contra el capitalismo financiero y la Europa de Maastrich.
+Los colectivos Ecologistas en Acción, CGT y Baladre, hemos decidido fundar una Escuela Social en homenaje a nuestro querido compañero Ramón Fernández Durán. Ramón mantuvo una relación muy estrecha con estos tres colectivos y sirvió de puente para unirnos en muchas de las luchas de las últimas décadas, especialmente contra el capitalismo financiero y la Europa de Maastrich.
 
 Ramón fue un pensador destacado del ecologistmo social que siempre estaba dispuesto compartir conocimientos y reflexiones, pero también fue un gran activista, por lo que queremos dotar a esta escuele de ese talante: *formación y reflexión para la acción*. 
 
