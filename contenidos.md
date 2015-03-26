@@ -18,6 +18,7 @@ Trabajaremos en una perspectiva macro sobre el recién publicado libro [*En la E
 ### Viernes 3 de abril
 10:00 _En la Espiral de la Energía (2ª parte)_.  
 En esta parte del taller se intentará vislumbrar colectivamente los escenarios probables que se presentarán en un futuro próximo en distintos ámbitos (economía, estado y política, sistema de valores, tecnología, trabajo/empleo, etc). 
+
 16:30 _En la Espiral de la Energía (3ª parte)_.
 En esta última parte del taller se aboradarán propuestas estrategicas conjuntas para ir de los escenarios probables a los deseables en los distintos ámbitos territoriales (grandes ciudades, pequeñas ciudades y medio rural). 
 
@@ -44,4 +45,4 @@ Cada tema se trabajará en tres momentos:
 2. Reflexión y análisis. Se hará una hará una reflexión y análisis conjunto dinamizada por un equipo facilitador. 
 3. Construcción de propuestas. Se propondrán instrumentos y herramientas conjuntas para abordar la problemática.
 
-Puedes descargar el programa en formato [pdf](/docs/programa_escuela_ramon_fdez.pdf). 
+Puedes descargar el programa en formato [pdf](/docs/programa_escuela_ramon_fdez.pdf).
