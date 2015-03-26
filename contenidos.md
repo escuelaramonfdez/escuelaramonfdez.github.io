@@ -36,8 +36,6 @@ En este taller trabajaremos sobre las herramientas que aporta el feminismo para 
 10:00 _Municipalismo_.
 En este taller trabajaremos el aprendizaje sobre experiencias concretas de municipalismo en el medio rural y buscaremos formas de empoderamiento en lo local.  
 
-Todos los talleres se desarrollarán en el Centro Cultural nuevo. 
-
 
 # Metodología
 Para trabajar sobre estos temas utilizaremos una metodología basada en la reflexión, el análisis y la construcción colectiva de conocimientos y herramientas. 
@@ -46,5 +44,3 @@ Cada tema se trabajará en tres momentos:
 1. Introducción al tema. Se realizará una breve presentación de introducción y contextualización. 
 2. Reflexión y análisis. Se hará una hará una reflexión y análisis conjunto dinamizada por un equipo facilitador. 
 3. Construcción de propuestas. Se propondrán instrumentos y herramientas conjuntas para abordar la problemática.
-
-Puedes descargar el programa en formato [pdf](/docs/programa_escuela_ramon_fdez.pdf). 
