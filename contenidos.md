@@ -35,7 +35,7 @@ En este taller trabajaremos sobre las herramientas que aporta el feminismo para 
 10:00 _Municipalismo_.  
 En este taller trabajaremos el aprendizaje sobre experiencias concretas de municipalismo en el medio rural y buscaremos formas de empoderamiento en lo local.  
 
-Todos los talleres se realizarán en el Centro Cultural nuevo de Monleras. 
+Todos los talleres se realizarán en el Centro Cultural La Panera de Monleras. 
 
 # Metodología
 Para trabajar sobre estos temas utilizaremos una metodología basada en la reflexión, el análisis y la construcción colectiva de conocimientos y herramientas. 
