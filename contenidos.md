@@ -7,7 +7,8 @@ comments: true
 published: true
 ---
 
-##Programa
+Programa
+--------
 
 ### Viernes 22 de abril
 17:00 Acto de acogida y presentación de la escuela.
