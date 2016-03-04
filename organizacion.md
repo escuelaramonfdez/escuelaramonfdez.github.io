@@ -2,28 +2,42 @@
 layout: page
 permalink: /logistica/
 title: Logística
-description: Logística de la Escuela Social Ramón Fernández Durán 20015
+description: Logística de la Escuela Social Ramón Fernández Durán 2016
 published: true
 ---
-
+ 
 # Fechas
-La edición 2015 de la Escuela Social Ramón Fernández Durán será del 2 al 5 de abril, en plena semana santa. 
+La edición de 2016 de la Escuela Social Ramón Fernández Durán será del 22 al 24 de abril. 
 
 # Lugar
-La escuela tendrá lugar en Monleras, un bonito pueblo de los Arribes del Duero en Salamanca. La acogida será en el Centro Cultural La Panera (calle Valentín Iglesias, 50)
+La escuela tendrá lugar en la Garaldea, un bonito pueblo de los Arribes del Duero en Salamanca. La acogida será en el Centro Cultural La Panera (calle Valentín Iglesias, 50)
 
-><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3002.7559464870324!2d-6.226380000000001!3d41.18349!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0d394de5508bc77d%3A0x7cff3a9de0f47d02!2sCalle+Valentin+Iglesias%2C+50%2C+37171+Monleras%2C+Salamanca!5e0!3m2!1ses!2ses!4v1427791362009" width="600" height="450" frameborder="0" style="border:0"></iframe>
+Finca El Batán
+Carretera de Navalcarnero a Chinchón, N-404  Km.49.900
+28370 – Chinchón, Madrid
 
+**Cómo llegar**
+
+En transporte público:
+
+- Línea C3 de cercanías Renfe hasta Ciempozuelos. Desde allí podéis venir en bicicleta por la Ruta de las Vegas (9 kilómetros) o contactar con nosotras para que os recojamos en la estación de tren.
+- Autobuses interurbanos 415 y 416 de La Veloz. La parada más cercana está en Titulcia. Desde allí, 20 minutos andando a la finca.
+
+En vehículo particular: 
+
+- Desde Madrid, tomar la A-4 dirección Córdoba. En el km 29 coger la salida que indica Ciempozuelos y seguir por esa carretera (M-404) hasta pasar Titulcia. Poco después de Titulcia (km 49,900 de la M-404), tras un vivero a mano derecha, hay un cartel blanco y un camino de tierra a mano derecha. Coger el camino hasta el final.
+
+><iframe width="600" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1524.911009852734!2d-3.5294013!3d40.1462481!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1394641407686"></iframe>
 
 # Alojamiento
-Existen tres tipos de alojamientos:
+Existen varios tipos de alojamientos:
 
-- Colchonetas (gratis).
-- Albergue [La Cabañuela](http://www.lacabanuela.es/) (14€ por persona y noche). Sólo hay 22 plazas.
-- Casas rurales o bungalows (cada uno lo autogestiona):  <http://www.arribes.net/hospedaje.php/>
+- Camas
+- Colchonetas
+- Tiendas de campaña
 
 # Alimentación
-La comida correrá a cargo del restaurante La Panera, situado al lado del Centro Cultural La Panera. 
+La comida correrá a cargo de la Asociación Garaldea.
 
 Los precios de cada comida serán los siguientes:
 

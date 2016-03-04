@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /contenidos/
-title: Contenidos
+permalink: /logistica/
+title: Logistica
 description: Contenidos de la Escuela Social Ramón Fernández Durán 2016
 comments: true
 published: true
