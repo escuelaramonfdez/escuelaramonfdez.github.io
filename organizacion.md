@@ -10,10 +10,10 @@ published: true
 La edición de 2016 de la Escuela Social Ramón Fernández Durán será del 22 al 24 de abril. 
 
 # Lugar
-La escuela tendrá lugar en la Garaldea, un bonito pueblo de los Arribes del Duero en Salamanca. La acogida será en el Centro Cultural La Panera (calle Valentín Iglesias, 50)
+Este año la escuela tendrá lugar en Garaldea, un bonito lugar en el sur de Madrid, cerca de Chinchón.
 
-Finca El Batán
-Carretera de Navalcarnero a Chinchón, N-404  Km.49.900
+Finca El Batán  
+Carretera de Navalcarnero a Chinchón, N-404  Km.49.900  
 28370 – Chinchón, Madrid
 
 **Cómo llegar**
@@ -32,9 +32,10 @@ En vehículo particular:
 # Alojamiento
 Existen varios tipos de alojamientos:
 
-- Camas
-- Colchonetas
-- Tiendas de campaña
+- Camas o colchones (7€)
+- Tiendas de campaña (Sin coste)
+
+En cualquier caso debes llevar saco de dormir o ropa de cama.
 
 # Alimentación
 La comida correrá a cargo de la Asociación Garaldea.
@@ -42,5 +43,14 @@ La comida correrá a cargo de la Asociación Garaldea.
 Los precios de cada comida serán los siguientes:
 
 - Desayuno: 3€
-- Comida: 7€
-- Cena: 6€
+- Comida: 5€
+- Cena: 5€
+
+# Normas y logística de Garaldea
+
+Garaldea es un espacio de desintoxicación y no se permite el consumo de ningún tipo de drogas (excepto tabaco). Por favor, respeta este acuerdo.
+
+Es importante que leas también las [normas de Garaldea](/doc/logistica_garaldea.pdf) donde también aparecen más detalles sobre las características y la logística del espacio.
+
+# Teléfonos de contacto
+Si tienes cualquier problema puedes llamarnos a cualquiera de los siguientes teléfonos: 656624528 (Baladre), 689026027 (CGT) o 656595591 (Ecologistas).
