@@ -29,7 +29,7 @@ Programa
 
 15:30--19:30 **[Repensando colectivamente nuestras estrategias. Segunda parte: ¿Cómo relacionar las estrategias de toma de las instituciones, de movimientos sociales y de construcción de alternativas?](#taller2)**
 
-10:00 **Cena**
+22:00 **Cena**
 
 ### Domingo 24 de abril
 9:00 **Desayuno**

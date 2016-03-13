@@ -50,7 +50,7 @@ Los precios de cada comida serán los siguientes:
 
 Garaldea es un espacio de desintoxicación y no se permite el consumo de ningún tipo de drogas (excepto tabaco). Por favor, respeta este acuerdo.
 
-Es importante que leas también las [normas de Garaldea](/doc/logistica_garaldea.pdf) donde también aparecen más detalles sobre las características y la logística del espacio.
+Es importante que leas también las [normas de Garaldea](/docs/logistica_garaldea.pdf) donde también aparecen más detalles sobre las características y la logística del espacio.
 
 # Teléfonos de contacto
 Si tienes cualquier problema puedes llamarnos a cualquiera de los siguientes teléfonos: 656624528 (Baladre), 689026027 (CGT) o 656595591 (Ecologistas).
