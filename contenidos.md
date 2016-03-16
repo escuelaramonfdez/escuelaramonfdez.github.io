@@ -15,7 +15,7 @@ Programa
 
 17:30--19:30 **Remunicipalización servicios**
 
-19:30--21:30 **Ningún negocio con nuestras necesidades**
+19:30--21:30 **[Ningún negocio con nuestras necesidades](#taller_viernes)**
 
 22:00 **Cena**
 
@@ -53,6 +53,14 @@ El grupo de participantes habrán refinado las estrategias a llevar a cabo en nu
 
 No se trata de llegar a ningún acuerdo, sino reflexionar conjuntamente con voluntad de dejarnos influir por el resto.
 
+### <a name="taller_viernes"></a>Ningún negocio con nuestras necesidades 
+
+Durante las últimas décadas, en su actual fase el capitalismo financiero global está encontrando nuevos nichos de negocio en uno de los pocos espacios que le quedaban por conquistar y explotar: todo lo que tiene que ver con nuestras necesidades más básicas. Esto implica una creciente y salvaje privatización de los servicios públicos que tienen que ver con recursos naturales tomados para el beneficio privado frente al bien común, como son el agua, la luz o el gas. Pero no solo estos, también otros servicios esenciales, especialmente en nuestros barrios y pueblos, como son el transporte y la movilidad o todo lo que tiene que ver con los cuidados. Todo este escenario de desposesión y mercantilización no solo ya de lo material sino de todas las condiciones vitales que hacen posible vivir una vida dignamente en comunidad, han derivado en que las grandes bolsas de exclusión y empobrecimiento sean también un gran nicho de beneficios para las grandes empresas dedicadas a la caridad y en general al negocio de la pobreza.
+
+Nuestras luchas por los DERECHOS SOCIALES, que van más allá de la dependencia al cruento mercado de empleo, se hicieron especialmente visibles con el derecho universal a tener una vivienda digna. Se pusieron en práctica el apoyo mutuo, la acción directa, y la desobediencia civil. Se aprendió a través de puntos de información a ayudar a la gente a llevar sus problemas individuales a lo colectivo, generando un fortalecimiento de las redes de apoyo.  Campañas como las de “Ningún Negocio con Nuestras Necesidades” además de visibilizar las terribles consecuencias de la acumulación voraz también ayudan a nuestra gente, las más machacadas por el sistema, a imaginar de forma colectiva otra forma de entender el territorio y que reclaman, desde ya, otras formas posibles de vivir nuestras vidas frente a la no vida del capitalismo patriarcal colonizador. Otras formas de organizarnos como que los suministros básicos, sean gestionados de forma comunitaria, que la gente pueda cubrir autónomamente sus necesidades con la Renta Básica de las Iguales o que el transporte o la vivienda sean derechos, sería una forma de pasar de Nuestras Necesidades-Carencia a nuestros Derechos Sociales.
+
+Ponentes: Leticia González Peinado (Asamblea Intercorralas y Kontrapunto), Aida Morales Franco (Encontraste Zambra), Desiderio Martin (CGT) y Say Lindell (Plataforma Andaluza por la Renta Básica de las Iguales y Acción Social Transporte de CGT Málaga).
+
 
 ### <a name="taller1"></a>Taller de Estrategias I: Análisis de la situación y de los escenarios probables en un marco de 10-20 años
 Una gran mesa en la que cada persona puede hablar hasta 15 min. Las introducciones darán por conocidos los temas más básicos y buscarán profundizar. El formato será que las personas respondan a una serie de preguntas que habremos preparado previamente y que conocerán y se habrán repartido (no todo el mundo contestará a las mismas preguntas). El objetivo de estas primeras aportaciones no es enlazarlas, eso viene después. (90 min)
@@ -87,50 +95,6 @@ Debate abierto alrededor de las reflexiones individuales. Los temas que han sali
 ### <a name="taller3"></a>Taller de Estrategias III: Continuación
 Al día siguiente se retoma el debate alrededor de las grandes cuestiones que salieron el día anterior. Si se ve necesario, se puede montar más de un debate en paralelo al principio sobre distintos temas y luego juntar las conclusiones. (120 min)
 
-
-### Propuestas de preguntas para los ponentes de la Escuela de Movimientos Sociales
-
-Esta es una primera lluvia de ideas de preguntas a pasar a las dos mesas. Entre todas las que nos salgan escogeremos las que consideremos mejores.
-
-**Mesa de análisis de la coyuntura y posibles futuros**
-
-- ¿Habrá en el 2016 otra crisis financiera?
-- ¿Cómo se vislumbra un gobierno europeo bajo el TTIP?
-- Paradoja: ¿Por qué no vemos el problema energético más allá? ¿Cómo tumbar el argumento del precio bajo del petróleo?
-- Repercusiones del precio fluctuante del petróleo. Impacto con distinto enfoque: político, social, ecológico...
-- Cómo de masculina es la economía y cómo sería si las mujeres hubiéramos estado.
-- Políticas neoliberales: ¿cómo afectan al derecho de las mujeres?
-- Partiendo de la situación de desigual reparto de la riqueza y del poder, ¿qué margen de maniobra real tenemos los movimientos sociales?
-- ¿Por qué las sociedades se resisten a los cambios?
-- ¿Son las personas más excluidas agentes de cambio?, ¿qué tiene que ocurrir para que lo sean?
-- ¿Cuáles son los puntos débiles del sistema económico, social, político y ambiental?
-- ¿Cómo funciona el capitalismo?
-- ¿Qué grado de coordinación existe entre las élites?, ¿dónde están los principales choques entre ellas?
-- ¿Qué futuro tiene la UE? ¿Y el FMI, BM y OMC?
-- ¿Seguirá EEUU siendo la superpotencia? ¿Qué hará China?
-
-**Mesa de estrategias**
-
-- ¿Qué puntos en común hay en las diferentes luchas?
-- ¿Cómo será nuestra manera de luchar si se aprueba el TTIP?
-- ¿Hasta qué punto los cambios en los ayuntamientos pueden ser efectivos para cambios políticos más profundos?
-- ¿Qué diferencias profundas, de concepto, hay entre las estrategias de toma de las instituciones, creación de alternativas y de los movimientos sociales?
-- ¿Cómo debilita a los movimientos sociales que parte de nuestras fuerzas están ahora en política? ¿Cómo influye esto en la capacidad de respuesta (ejemplo titiriteros)?
-- ¿Cómo podemos aumentar nuestra fuerza?
-- Se puede hacer un cambio de modelo desde el modelo? ¿Cuál es la propuesta?
-- Colapso: ¿Cómo trabajar en este contexto? ¿Cuál es nuestro público objetivo?
-- ¿Qué tiene que cambiar en nuestras estrategias que el capitalismo global esté colapsando?
-- ¿Cómo conseguimos convivir con nuestras diferencias?, ¿cuándo tenemos que obviarlas y cuándo sacarlas a la luz?
-- ¿Cómo es el “recoloque” entre movimientos sociales y política? ¿Estamos divididos? ¿Debemos coordinarnos? ¿Debemos separarnos?
-- Puntos de encuentro de lucha a nivel internacional.
-- ¿En qué posición debemos colocar al feminismo en la construcción de un nuevo modelo?
-- Estrategias de comunicación.
-- ¿Cómo desde el individualismo podemos romper estas desigualdades?
-- Ecología social: potencialidades.
-- ¿Cómo convencer a los países empobrecidos de la austeridad?
-- ¿Por qué la austeridad es mala? Mojarse en el debate del crecimiento.
-- ¿Qué virtudes o herramientas son útiles del capitalismo para utilizarlo en nuestro discurso?
-- ¿Qué hace que una lucha se sostenga en el tiempo?
 
 ## Metodología
 
