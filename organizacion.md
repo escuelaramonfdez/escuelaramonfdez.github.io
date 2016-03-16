@@ -37,6 +37,9 @@ Existen varios tipos de alojamientos:
 
 En cualquier caso debes llevar saco de dormir o ropa de cama.
 
+# Niña/os
+Si vienes con niña/os habrá ludoteca. Por favor indicar en la ficha de inscripción cuanta/os niña/os vendrán y sus edades. 
+
 # Alimentación
 La comida correrá a cargo de la Asociación Garaldea.
 
