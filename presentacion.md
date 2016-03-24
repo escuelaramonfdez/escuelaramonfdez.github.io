@@ -4,6 +4,9 @@ permalink: /presentacion/
 title: Presentación
 description: "Presentación de la Escuela Social Ramón Fernández Durán"
 ---
+
+<img class="figure" src="/images/cartel_escuela_2016.jpg" alt="Cartel Escuela Social 2ª Edición"/>
+
 # ¿Qué es la Escuela Social Ramón Fernández Durán?
 La Escuela Social Ramón Fernández Durán surge en homenaje al pensador y activista Ramón Fernández Durán.
 
@@ -22,9 +25,7 @@ Publicó multitud de libros, entre los que cabe destacar "Capitalismo (financier
 
 Si quieres saber más de él, visita el [blog La Explosión del Desorden](https://laexplosiondeldesorden.wordpress.com/).
 
-<div style="text-align:center">
-<img src="/images/recuerdo_ramon.jpg" alt="Dibujo de recuerdo de Ramón Fernández Durán"/>
-</div>
+<img class="figure" src="/images/recuerdo_ramon.jpg" alt="Dibujo de recuerdo de Ramón Fernández Durán"/>
 
 ><div style="font-family:Satisfy; font-size:1.5rem">
 Faltaban 5 días como faltan hoy,<br/>

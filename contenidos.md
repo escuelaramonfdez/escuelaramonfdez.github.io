@@ -13,9 +13,7 @@ Programa
 ### Viernes 22 de abril
 17:00 **Acogida y presentación de la escuela**
 
-17:30--19:30 **Remunicipalización servicios**
-
-19:30--21:30 **[Ningún negocio con nuestras necesidades](#taller_viernes)**
+17:30--21:30 **[Ningún negocio con nuestras necesidades](#taller_viernes)**
 
 22:00 **Cena**
 
@@ -36,7 +34,7 @@ Programa
 
 10:00--12:00 **[Repensando colectivamente nuestras estrategias. Tercera parte: Más vueltas a cómo actuar colectivamente.](#taller3)**
 
-12:30--14:00 **Amnistía social**
+12:30--14:00 **[Amnistía social](#taller_domingo)**
 
 14:00 **Comida**
 
@@ -59,8 +57,11 @@ Durante las últimas décadas, en su actual fase el capitalismo financiero globa
 
 Nuestras luchas por los DERECHOS SOCIALES, que van más allá de la dependencia al cruento mercado de empleo, se hicieron especialmente visibles con el derecho universal a tener una vivienda digna. Se pusieron en práctica el apoyo mutuo, la acción directa, y la desobediencia civil. Se aprendió a través de puntos de información a ayudar a la gente a llevar sus problemas individuales a lo colectivo, generando un fortalecimiento de las redes de apoyo.  Campañas como las de “Ningún Negocio con Nuestras Necesidades” además de visibilizar las terribles consecuencias de la acumulación voraz también ayudan a nuestra gente, las más machacadas por el sistema, a imaginar de forma colectiva otra forma de entender el territorio y que reclaman, desde ya, otras formas posibles de vivir nuestras vidas frente a la no vida del capitalismo patriarcal colonizador. Otras formas de organizarnos como que los suministros básicos, sean gestionados de forma comunitaria, que la gente pueda cubrir autónomamente sus necesidades con la Renta Básica de las Iguales o que el transporte o la vivienda sean derechos, sería una forma de pasar de Nuestras Necesidades-Carencia a nuestros Derechos Sociales.
 
-Ponentes: Leticia González Peinado (Asamblea Intercorralas y Kontrapunto), Aida Morales Franco (Encontraste Zambra), Desiderio Martin (CGT) y Say Lindell (Plataforma Andaluza por la Renta Básica de las Iguales y Acción Social Transporte de CGT Málaga).
+17:30--19:00 Dinamizan y entrevistan Say Lindell (Plataforma Andaluza por la Renta Básica de las Iguales y Acción Social Transporte de CGT Málaga) y Aida Morales Franco (Encontraste Zambra) con preguntas/entrevistas a Leticia González Peinado (Asamblea Intercorralas y Kontrapunto), Desiderio Martín (CGT) y Toni Valero (Koordinadora de K. Parke).
 
+19:00--20:00 Trabajo en grupos para plantear una estrategia y acciones.
+
+20:00--21:00 h Puesta en común.
 
 ### <a name="taller1"></a>Taller de Estrategias I: Análisis de la situación y de los escenarios probables en un marco de 10-20 años
 Una gran mesa en la que cada persona puede hablar hasta 15 min. Las introducciones darán por conocidos los temas más básicos y buscarán profundizar. El formato será que las personas respondan a una serie de preguntas que habremos preparado previamente y que conocerán y se habrán repartido (no todo el mundo contestará a las mismas preguntas). El objetivo de estas primeras aportaciones no es enlazarlas, eso viene después. (90 min)
@@ -95,6 +96,9 @@ Debate abierto alrededor de las reflexiones individuales. Los temas que han sali
 ### <a name="taller3"></a>Taller de Estrategias III: Continuación
 Al día siguiente se retoma el debate alrededor de las grandes cuestiones que salieron el día anterior. Si se ve necesario, se puede montar más de un debate en paralelo al principio sobre distintos temas y luego juntar las conclusiones. (120 min)
 
+
+### <a name="taller_domingo"></a>Amnistía Social
+Dinamiza y presenta : Mary Arrababali (Zambra/Baladre) con preguntas a preguntas/entrevistas a Rosa Zafra (Baladre/CGT) y Jesús Arteaga, Jipy (Asamblea de Precarias y Paradas de CGT de Valencia).
 
 ## Metodología
 
