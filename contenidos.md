@@ -98,7 +98,7 @@ Al día siguiente se retoma el debate alrededor de las grandes cuestiones que sa
 
 
 ### <a name="taller_domingo"></a>Amnistía Social
-Dinamiza y presenta : Mary Arrababali (Zambra/Baladre) con preguntas a preguntas/entrevistas a Rosa Zafra (Baladre/CGT) y Jesús Arteaga, Jipy (Asamblea de Precarias y Paradas de CGT de Valencia).
+Dinamiza y presenta : Mary Arrababali (Zambra/Baladre) con preguntas a preguntas/entrevistas a Rosa Zafra (Baladre) y Jesús Arteaga, Jipy (Asamblea de Precarias y Paradas de CGT de Valencia).
 
 ## Metodología
 
