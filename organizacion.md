@@ -51,7 +51,7 @@ Los precios de cada comida serán los siguientes:
 
 # Normas y logística de Garaldea
 
-Garaldea es un espacio de desintoxicación y no se permite el consumo de ningún tipo de drogas (excepto tabaco). Por favor, respeta este acuerdo.
+Garaldea es una comunidad en la que se acompañan procesos de deshabituacion y, por tanto, no se permite el consumo de ningún tipo de drogas (excepto tabaco). Por favor, respeta este acuerdo.
 
 Es importante que leas también las [normas de Garaldea](/docs/logistica_garaldea.pdf) donde también aparecen más detalles sobre las características y la logística del espacio.
 
