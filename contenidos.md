@@ -75,11 +75,11 @@ Las personas participantes, después del proceso formativo:
 - Habrán mejorado su capacidad para analizar los puntos fuertes y débiles de dichas alternativas.
 - Podrán dibujar buenos planes de mejora de dichas alternativas.
 
-## []()Recuperemos lo público, lo comunitario, lo común.
+## <a name="taller1"></a>Recuperemos lo público, lo comunitario, lo común.
 
 Dinamiza y coordina CGT y Baladre.
 
-## []() Sistemas de dominación ¿Qué es ...?
+## <a name="taller2"></a>Sistemas de dominación ¿Qué es ...?
 
 Intervenciones marco sobre cómo funcionan los fundamentales sistemas de dominación actuales. Se aclarará que no son todos, pero sí los que están siendo más importantes. La idea es ir a una análisis que entre en profundidad, que aporte sobre lo que ya sabe el/la activista medio/a. Así las intervenciones iniciales deberán ser potentes.
 
@@ -94,7 +94,7 @@ Digestión de las intervenciones en grupos pequeños:
 - Presentación de los mapas de interacción.
 - Discusión sobre las dudas (solo sobre las dudas).
 
-## []()¿Cómo deberían ser nuestras alternativas?
+## <a name="taller3"></a>¿Cómo deberían ser nuestras alternativas?
 
 Intervenciones marco (nuevamente con idea de que sean potentes). Aunque en la intervención aparezca el epígrafe “economía...” el enfoque no será únicamente economicista, del mismo modo que el capitalismo no es solo un sistema económico, sino también un sistema social.
 
@@ -116,7 +116,7 @@ Plenario:
 - Puesta en común de los indicadores. Un grupo dice uno, después si hay algún otro grupo que ha matizado ese mismo indicador lo señala. Luego se pasa a otro indicador y así sucesivamente hasta completar la batería. Al final queda una batería de indicadores compartidos.
 - Ponderación de indicadores para quedarnos colectivamente con los 5-8 que se consideren más importantes.
 
-## []()¿Qué es lo que hay sobre la mesa?
+## <a name="taller4"></a>¿Qué es lo que hay sobre la mesa?
 
 Separación del grupo grande en varios que se especializarán en un tema.
 Exposición de distintas alternativas concretas que hay sobre la mesa. No se trata de ver cómo es la situación general de las empresas recuperadas (por tomar el primer ejemplo) sino analizar un caso concreto de empresa recuperada (20 min cada una):
@@ -135,7 +135,7 @@ Puesta en común.
 - Preguntas (sin debate).
 
 
-## Planes de mejora
+## <a name="taller5"></a>Planes de mejora
 ¿Qué hace falta mejorar?
 
 - Lluvia de ideas colectiva sobre qué elementos hace falta mejorar.
