@@ -1,13 +1,12 @@
 ---
 layout: page
-permalink: /logistica/
 title: Logistica
 description: Contenidos de la Escuela Social Ramón Fernández Durán 2016
 comments: true
 published: true
 ---
 
-##Programa
+## Programa
 
 ### Viernes 22 de abril
 17:00 Acto de acogida y presentación de la escuela.
@@ -51,7 +50,7 @@ Discusión abierta. (30 min)
 
 ### <a name="taller2"></a>Taller de Estrategias II: Estrategias con un ojo en el presente y otro en el futuro de los próximos 10-20 años
 
-Tres introducciones de 15 min sobre las líneas fuertes y débiles de tres estrategias tipo. El objetivo de estas introducciones no es enlazar las estrategias, eso vendrá después. (90 min) 
+Tres introducciones de 15 min sobre las líneas fuertes y débiles de tres estrategias tipo. El objetivo de estas introducciones no es enlazar las estrategias, eso vendrá después. (90 min)
 
 - *Estrategia institucional*. Ponentes: Brianda Yáñez y María Gallego.
 - *Estrategia de construcción de alternativas*. Ponentes: Ángel Calle y Óscar Jurado.
@@ -66,6 +65,6 @@ Al día siguiente se retoma el debate, pero se estructura en torno a los grandes
 
 ## Metodología
 
-Para trabajar sobre estos temas utilizaremos una metodología basada en la reflexión, el análisis y la construcción colectiva de conocimientos y herramientas. 
+Para trabajar sobre estos temas utilizaremos una metodología basada en la reflexión, el análisis y la construcción colectiva de conocimientos y herramientas.
 
 Puedes descargar el programa en formato [pdf](/docs/programa_escuela_ramon_fdez_2016.pdf).
