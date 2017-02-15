@@ -125,7 +125,7 @@ Exposición de distintas alternativas concretas que hay sobre la mesa:
 
 - Empresas recuperadas. Oscar García Jurado.
 - Sistema alimentario. Daniel López.
-- Educación popular. Pablo Fonte.
+- Educación. Pablo Fonte y Marta Pérez.
 - Cultura. Laura Presa.
 - Medios de Comunicación. Jose Miguel Martón.
 

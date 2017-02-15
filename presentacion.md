@@ -5,21 +5,21 @@ title: Presentación
 description: "Presentación de la Escuela Social Ramón Fernández Durán"
 ---
 
-<img class="figure" src="/images/cartel_escuela_2016.jpg" alt="Cartel Escuela Social 2ª Edición"/>
+<img class="figure" src="/images/cartel_escuela_2017.jpg" alt="Cartel Escuela Social 2ª Edición"/>
 
 # ¿Qué es la Escuela Social Ramón Fernández Durán?
 La Escuela Social Ramón Fernández Durán surge en homenaje al pensador y activista Ramón Fernández Durán.
 
 Se trata de un espacio autogestionado de conocimiento mutuo, relación, y reflexión para la acción social y colectiva entre gente inquieta que nos apetece juntarnos y compartir: "qué estamos haciendo" para "hacer juntas"; discutir, reír, divertirnos, construir y deconstruir,... Soñando muchos mundos donde la justicia social, la igualdad, la solidaridad, el respeto por el medio ambiente y las personas, sean utopías a alcanzar.
 
-Si tienes inquietud por cambiar este sistema capitalista inhumano y te apetece compartir reflexiones y análisis sociopolíticos, así como propuestas para transitar juntas hacia otros mundos más humanos y sustentables, no lo dudes, este es tu sitio. 
+Si tienes inquietud por cambiar este sistema capitalista inhumano y te apetece compartir reflexiones y análisis sociopolíticos, así como propuestas para transitar juntas hacia otros mundos más humanos y sustentables, no lo dudes, este es tu sitio.
 
 # ¿Quiénes han puesto en marcha esta escuela?
-Esta escuela ha sido fundada por Ecologistas en Acción, CGT y Baladre, pero está abierta y quiere contar con todos los colectivos y movimientos sociales, así que si tu colectivo está interesado en participar en su organización, no dudes en contactar con nosotros. 
+Esta escuela ha sido fundada por Ecologistas en Acción, CGT y Baladre, pero está abierta y quiere contar con todos los colectivos y movimientos sociales, así que si tu colectivo está interesado en participar en su organización, no dudes en contactar con nosotros.
 
 # ¿Quién era Ramón Fernández Durán?
-Ramón Fernández Durán, fue un pensador crítico y activista precursor de los movimientos sociales y fundador de Ecologistas en Acción. 
-Dedicó su vida en cuerpo y alma a luchar contra la globalización capitalista y la era del petróleo, tejiendo redes entre muy diversos colectivos sociales, ligando el ecologismo social con el anarcosindicalismo y la lucha desde abajo de las excluídas del sistema. 
+Ramón Fernández Durán, fue un pensador crítico y activista precursor de los movimientos sociales y fundador de Ecologistas en Acción.
+Dedicó su vida en cuerpo y alma a luchar contra la globalización capitalista y la era del petróleo, tejiendo redes entre muy diversos colectivos sociales, ligando el ecologismo social con el anarcosindicalismo y la lucha desde abajo de las excluídas del sistema.
 
 Publicó multitud de libros, entre los que cabe destacar "Capitalismo (financiero) global y guerra permanente*, *La compleja construcción de la Europa superpotencia*, *El crepúsculo de la era trágica del petróleo: Pico del oro negro y colapso financiero (y ecológico) mundial*, y *La Quiebra del Capitalismo Global: 2000­-2030*.
 
