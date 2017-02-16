@@ -127,7 +127,7 @@ Exposición de distintas alternativas concretas que hay sobre la mesa:
 - Sistema alimentario. Daniel López.
 - Educación. Pablo Fonte y Marta Pérez.
 - Cultura. Laura Presa.
-- Medios de Comunicación. Jose Miguel Martón.
+- Medios de Comunicación. José Miguel Martín y Fernán.
 
 Cada grupo aplica los indicadores a la alternativa que le ha tocado:
 
