@@ -15,7 +15,7 @@ published: true
 
 18:30--20:30 **[Recuperemos lo público, lo comunitario, lo común](#taller1)**
 
-20:30--21:00 **Presentación del libro "Músicas contra el poder. Canción popular y política en el siglo XX"** de Valentín Ladrero. Música a cargo de Roberto Herreros.
+20:30--21:00 **Presentación del libro "Músicas contra el poder. Canción popular y política en el siglo XX"** de Valentín Ladrero.
 
 21:00 Cena
 
@@ -84,7 +84,7 @@ Dinamiza y coordina CGT y Baladre.
 Intervenciones marco sobre cómo funcionan los fundamentales sistemas de dominación actuales.
 
 - Capitalismo. Desiderio Martín y Walter Actis.
-- Patriarcado. Silvia López Gil.
+- Patriarcado. Sandra Ezquerro.
 
 Digestión de las intervenciones en grupos pequeños:
 
@@ -100,8 +100,8 @@ Plenario:
 
 Intervenciones marco:
 
-- Economía social y solidaria. Clara Griera o Susana Ortega.
-- Economía feminista.  Elena Saura.
+- Economía social y solidaria. Clara Griera.
+- Economía feminista. Elena Saura.
 - Economía ecológica. Iván Murray.
 
 Discusión en plenario:
@@ -127,7 +127,7 @@ Exposición de distintas alternativas concretas que hay sobre la mesa:
 - Sistema alimentario. Daniel López.
 - Educación. Pablo Fonte y Marta Pérez.
 - Cultura. Laura Presa.
-- Medios de Comunicación. José Miguel Martín y Fernán.
+- Medios de Comunicación. José Miguel Martín y Fernán Chalmeta.
 
 Cada grupo aplica los indicadores a la alternativa que le ha tocado:
 
