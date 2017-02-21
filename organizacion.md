@@ -51,8 +51,6 @@ Si vienes con niña/os habrá ludoteca. Por favor indicar en la ficha de inscrip
 
 # Alimentación
 
-La comida correrá a cargo de la Asociación Garaldea.
-
 Los precios de cada comida serán los siguientes:
 
 - Desayuno: 3€
