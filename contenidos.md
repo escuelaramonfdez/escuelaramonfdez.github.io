@@ -84,7 +84,7 @@ Dinamiza y coordina CGT y Baladre.
 Intervenciones marco sobre cómo funcionan los fundamentales sistemas de dominación actuales.
 
 - Capitalismo. Desiderio Martín y Walter Actis.
-- Patriarcado. Sandra Ezquerro.
+- Patriarcado. Ana Hernando (pendiente confirmar).
 
 Digestión de las intervenciones en grupos pequeños:
 
