@@ -157,4 +157,6 @@ Discusión en plenario abierta.
 
 Para trabajar sobre estos temas utilizaremos una metodología basada en la reflexión, el análisis y la construcción colectiva de conocimientos y herramientas.
 
+Dinamizarán Berta Iglesias y Ana Pérez. 
+
 <!-- Puedes descargar el programa en formato [pdf](/docs/programa_escuela_ramon_fdez_2016.pdf). -->
