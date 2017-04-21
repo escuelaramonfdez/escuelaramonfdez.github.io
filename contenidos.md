@@ -165,4 +165,4 @@ Dinamizarán Berta Iglesias y Ana Pérez.
 
 En el siguiente enlace se puede acceder a las fotos con las conclusiones de los talleres.
 
-https://drive.google.com/drive/folders/0BybM6OU_fhRZSVhzY1NoQnlYOFE
+[https://drive.google.com/drive/folders/0BybM6OU_fhRZSVhzY1NoQnlYOFE](https://drive.google.com/drive/folders/0BybM6OU_fhRZSVhzY1NoQnlYOFE)
