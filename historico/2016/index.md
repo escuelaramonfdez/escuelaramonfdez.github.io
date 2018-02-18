@@ -6,10 +6,6 @@ comments: true
 published: true
 ---
 
-# [Contenidos](/historico/2016/contenidos.html)
-
-# [Logística](/historico/2016/logistica.html)
-
-# [Fotos](/historico/2016/fotos.html)
-
 ![Cartel Escuela Social 2ª Edición](/images/cartel_escuela_2016.jpg)
+
+# [Contenidos](/historico/2016/contenidos.html) - [Logística](/historico/2016/logistica.html) - [Fotos](/historico/2016/fotos.html)

@@ -2,156 +2,164 @@
 layout: page
 permalink: /contenidos/
 title: Contenidos
-description: Contenidos de la Escuela Social Ramón Fernández Durán 2017
+description: Contenidos de la Escuela Social Ramón Fernández Durán 2018
 comments: true
 published: true
 ---
 
 # Programa
 
-## Viernes 31 de marzo
+## Viernes 13 de abril. [Educación transformadora](#educacion)
 
-17:30--18:30 Recepción y acogida
+16:00 - 18:00 [Visita a ASDECOBA y ASDECASAL](#asdecoba)
 
-18:30--20:30 **[Recuperemos lo público, lo comunitario, lo común](#taller1)**
+18:30 - 18:45 [Presentación de la escuela](#presentacion)
 
-20:30--21:00 **Presentación del libro "Músicas contra el poder. Canción popular y política en el siglo XX"** de Valentín Ladrero.
+18:45 - 19:30 [¿Cuáles es la realidad de la educación transformadora?](#taller1)
 
-21:00 Cena
+19:30 - 21:00 [¿Qué elementos hacen falta para hacerla más transformadora?](#taller2)
 
-## Sábado 1 de abril
+21:30 - 22:30 Cena
 
-9:00-9:30 **Desayuno**
+## Sábado 14 de abril. [Economías alternativas](#economia)
 
-9:30--12:00 **[Sistemas de dominación ¿Qué es ...?](#taller2)**
+9:00 - 10:00 Desayuno
 
-12:00--12:30 Descanso
+10:00 - 10:45 [Indicadores para una economía solidaria, feminista y ecológica](#taller3)
 
-12:30--14:00 **[¿Cómo deberían ser nuestras alternativas?](#taller3)**
+10:45 - 11:30 [Posibles escenarios futuros y presentes](#taller4)
+ 
+11:30 - 12:00 Descanso
 
-14:00--16:30 Comida
-
-16:30--18:30 **¿Cómo deberían ser nuestras alternativas? (continuación)**
-
-18:30--19:00 Descanso
-
-19:00--21:00 **[¿Qué es lo que hay sobre la mesa?](#taller4)**
-
-21:00 Cena
-
-## Domingo 2 de abril
-
-9:00--9:30 Desayuno
-
-9:30--11:30 **[Planes de mejora](#taller5)**
-
-11:30--12:00 Descanso
-
-12:00--13:30 **Planes de mejora (continuación)**
-
-13:30--14:00 **Evaluación y cierre**
+12:00 -14:00 [Situación de sectores concretos](#taller5)
 
 14:00-16:00 Comida
 
-16:00--17:30 **Presentación del libro "Cambiar el mundo desde arriba"** de Decio Machado y Raúl Zebechi.
+16:00 - 16:30 [Claves para dar saltos de escala](#taller6)
 
-17:30 Despedida
+16:00 -18:30 [Saltos de escala en sectores concretos](#taller7)
 
-# Contenidos
+18:30 - 19:00 Descanso
 
-## Público destinatario
+19:00 - 20:00 Debate abierto
 
-Personas activas en movimientos sociales, experiencias de economía social y solidaria.
+21:30 - 22:30 Cena
 
-El encuentro no está diseñado para un nivel iniciático, sino para servir de encuentro a personas con una trayectoria.
+## Domingo 15 de abril. Comunidades
 
-## Objetivos
+9:00 - 10:00 Desayuno
 
-Las personas participantes, después del proceso formativo:
+10:00 - 11:00 [Experiencias de cultivos sociales](#taller8)
 
-- Conocerán mejor los sistemas de dominación capitalista heteropatriarcal.
-- Tendrán un abanico de indicadores para evaluar las alternativas al capitalismo heteropatriarcal.
-- Conocerán mejor varias alternativas al actual sistema promovidas desde los movimientos sociales.
-- Habrán mejorado su capacidad para analizar los puntos fuertes y débiles de dichas alternativas.
-- Podrán dibujar buenos planes de mejora de dichas alternativas.
+11:00 - 12:00 Debate abierto
 
-## <a name="taller1"></a>Recuperemos lo público, lo comunitario, lo común.
+12:00 - 12:30 Descanso
 
-Dinamiza y coordina CGT y Baladre.
+12:30 - 14:30 [Enlazando todo](#taller9)
 
-## <a name="taller2"></a>Sistemas de dominación ¿Qué es ...?
+14:30 - 16:00 Comida
 
-Intervenciones marco sobre cómo funcionan los fundamentales sistemas de dominación actuales.
+16:00 - 18:00 Visita a ASDECOBA y ASDECASAL
 
-- Capitalismo. Desiderio Martín y Walter Actis.
-- Patriarcado. Ana Hernando (pendiente confirmar).
+# Talleres
 
-Digestión de las intervenciones en grupos pequeños:
+## <a name="educacion"></a>Educación transformadora
 
-- Plantean las cuestiones que no les han quedado claras y las intentan responder colectivamente. Las que no puedan responder las plantearán luego en plenario.
-- Hacen un mapa de cómo se interrelacionan las distintas relaciones de dominación y cuáles son sus bases.
+Al final de la sesión, las personas participantes:
 
-Plenario:
+- Conocerán quién era Ramón Fernández Durán.
+- Conocerán experiencias de educación transformadora.
+- Tendrán más elementos para mejorar el currículo en la educación transformadora.
+- Tendrán una visión más sistémica que interrelacione los cuidados, la economía y la educación.
 
-- Presentación de los mapas de interacción.
-- Discusión sobre las dudas (solo sobre las dudas).
+### <a name="asdecoba"></a>Visita a ASDECOBA y ASDECASAL
 
-## <a name="taller3"></a>¿Cómo deberían ser nuestras alternativas?
+Conocemos las asociaciones que nos acogen y sus trabajos.
 
-Intervenciones marco:
+### <a name="presentacion"></a>Presentación de la escuela
 
-- Economía social y solidaria. Clara Griera.
-- Economía feminista. Elena Saura.
-- Economía ecológica. Iván Murray.
+Presentación de la escuela y de la figura de Ramón Fernández Durán.
 
-Discusión en plenario:
+Habrá una exposición sobre Ramón durante toda la escuela.
 
-- Batería de dudas que se nos plantean alrededor de cuán alternativas son nuestras alternativas.
-- Reflexión colectiva y desorganizada sobre esas dudas.
+### <a name="taller1"></a>¿Cuáles es la realidad de la educación transformadora?
 
-Indicadores para alternativas emancipadoras:
+- Panorama de la educación popular en América Latina. Raúl Zibechi.
+- Panorama de la educación popular en España. Marta Pascual y Rosa Zafra.
 
-- En grupos se elaboran baterías de indicadores para una economía emancipadora recogiendo cuáles son las bases del sistema de dominación y las alternativas de los movimientos sociales.
+### <a name="taller2"></a>¿Qué elementos hacen falta para hacerla más transformadora?
 
-Plenario:
+En grupos se proponen cambios:
 
-- Puesta en común de los indicadores.
-- Ponderación de indicadores para quedarnos colectivamente con los 5-8 que se consideren más importantes.
+- En los objetivos.
+- En los contenidos.
+- En el método.
+- En la evaluación.
 
-## <a name="taller4"></a>¿Qué es lo que hay sobre la mesa?
+## <a name="economia"></a>Economías alternativas
 
-Separación del grupo grande en varios que se especializarán en un tema.
-Exposición de distintas alternativas concretas que hay sobre la mesa:
+Al final de la sesión, las personas participantes:
 
-- Empresas recuperadas. Oscar García Jurado.
-- Sistema alimentario. Daniel López.
-- Educación. Pablo Fonte y Marta Pérez.
-- Cultura. Laura Presa.
-- Medios de Comunicación. José Miguel Martín y Fernán Chalmeta.
+- Tendrán más claros qué elementos hacen a las iniciativas alternativas poscapitalistas.
+- Habrán pulido sus proyecciones de por dónde puede evolucionar el sistema actual.
+- Habrán mejorado su capacidad para construir alternativas poscapitalistas que den saltos de escala en los contextos por venir.
 
-Cada grupo aplica los indicadores a la alternativa que le ha tocado:
+### <a name="taller3"></a>Indicadores para una economía solidaria, feminista y ecológica
 
-- Se realiza un panel visualizando con “caritas” cada uno de los indicadores con comentarios.
+- Presentación de la carta de principios y de algunos de los indicadores del balance social de REAS. Susana Ortega y Saloa.
+- Ronda acotada de aportaciones.
 
-Puesta en común:
+### <a name="taller4"></a>Posibles escenarios futuros y presentes
 
-- Brevísima explicación de cada alternativa y repaso del panel de indicadores.
-- Preguntas.
+- Análisis de la situación actual y de posibles escenarios por venir.
+- Ronda acotada de aportaciones.
 
+### <a name="taller5"></a>Situación de sectores concretos
 
-## <a name="taller5"></a>Planes de mejora
-¿Qué hace falta mejorar?
+Todo el grupo se divide en los siguientes subgrupos por preferencia:
 
-- Lluvia de ideas colectiva sobre qué elementos hace falta mejorar.
-- Se ponderan en grupo para escoger 5 sobre los que trabajar.
+- Alimentación. Isa Álvarez.
+- Energía. UCUER / Som Energia.
+- Cooperativismo. Emmanuel Rodríguez y David
+- Finanzas. Javi (COOP57).
+- Vivienda. La Borda.
 
-¿Cómo podemos abordar esos problemas?
+Afronta las siguientes tareas:
 
-- Trabajo en grupos.
-- Pasan las conclusiones al grupo de al lado que las completa.
-- Se repite esa operación dos veces más.
+- Matización de los indicadores.
+- Matización de los escenarios futuros.
+- Introducción de la situación de la economía social, feminista y ecológica en el sector.
+- Aplicación de los indicadores al sector.
 
-Discusión en plenario abierta.
+### <a name="taller6"></a>Claves para dar saltos de escala
+
+- Exposición sobre las dificultades a la hora de realizar saltos de escala. Marca dónde están los desafíos.
+- Ronda acotada de aportaciones.
+
+### <a name="taller7"></a>Saltos de escala en sectores concretos
+
+Tareas:
+
+- Las personas vuelven a sus grupos y elabora medidas concretas para dar saltos de escala en el sector atendiendo a: 1) Los contextos por venir; 2) Los indicadores; 3) La gestión del riesgo; 4) Los contextos políticos y culturales que sería necesario impulsar.
+- Puesta en común en grupo grande de: 1) La situación del sector (la aplicación de los indicadores); 2) Las partes del plan de trabajo para el salto de escala que puedan ser aplicables a otros sectores.
+
+## <a name="comunidades"></a>Comunidades
+
+Al final de la sesión, las personas participantes:
+
+- Valorarán que las comunidades del siglo XXI tienen que partir de relaciones más sanas, cargadas de cuidados y afectos.
+- Valorarán que también tienen que construir cultivos sociales (redes que se orientan, explícita y fundamentalmente, a la generación de espacios y relaciones con los que satisfacer, lo más directamente posible, un conjunto de necesidades básicas, sean estas materiales, expresivas, afectivas y de relación con la naturaleza).
+- Conocerán que los cultivos sociales tienen un afán explícito y consciente de construir otros mundos desde abajo cuestionando las lógicas del capitalismo desde un sentido de la colectividad.
+
+### <a name="taller8"></a>Experiencias de cultivos sociales
+
+- Salud mental. Flipa.
+- Vivienda. PAH Sabadell / PAH Vallecas.
+- Apoyo mutuo. Nosotras (Granada).
+
+### <a name="taller9"></a>Enlazando todo
+
+Por grupos enlazan en formato mapa conceptual las conclusiones de los tres momentos de la escuela (comunidades, economía y educación) buscando las sinergias.
 
 # Metodología
 
@@ -160,9 +168,3 @@ Para trabajar sobre estos temas utilizaremos una metodología basada en la refle
 Dinamizarán Berta Iglesias y Ana Pérez.
 
 <!-- Puedes descargar el programa en formato [pdf](/docs/programa_escuela_ramon_fdez_2016.pdf). -->
-
-# Conclusiones
-
-En el siguiente enlace se puede acceder a las fotos con las conclusiones de los talleres.
-
-[https://drive.google.com/drive/folders/0BybM6OU_fhRZSVhzY1NoQnlYOFE](https://drive.google.com/drive/folders/0BybM6OU_fhRZSVhzY1NoQnlYOFE)

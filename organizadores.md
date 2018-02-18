@@ -10,4 +10,6 @@ description: "Organizadores de la Escuela Social Ramón Fernández Durán"
 <a href="http://www.ecologistasenaccion.org"><img src="/images/logos/ecologistas.png" alt="Logo de Ecologistas en Acción"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="http://www.coordinacionbaladre.org/"><img src="/images/logos/baladre.png" alt="Logo de Baladre"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.reasred.org/"><img src="/images/logos/reas.png" alt="Logo de REAS"/></a>
 </div>
