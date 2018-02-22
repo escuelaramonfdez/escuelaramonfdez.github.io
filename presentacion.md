@@ -5,7 +5,7 @@ title: Presentación
 description: "Presentación de la Escuela Social Ramón Fernández Durán"
 ---
 
-<img class="figure" src="/images/cartel_escuela_2018.jpg" alt="Cartel Escuela Social 2ª Edición"/>
+<img class="figure" src="/images/cartel_escuela_2018.jpg" alt="Cartel Escuela Social 4ª Edición"/>
 
 # ¿Qué es la Escuela Social Ramón Fernández Durán?
 La Escuela Social Ramón Fernández Durán surge en homenaje al pensador y activista Ramón Fernández Durán.
