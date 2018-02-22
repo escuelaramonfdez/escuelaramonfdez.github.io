@@ -11,7 +11,7 @@ published: true
 
 ## Viernes 13 de abril. [Educación transformadora](#educacion)
 
-16:00 - 18:00 [Visita a ASDECOBA y ASDECASAL](#asdecoba)
+16:00 - 18:00 [Visita a ASDECOBA](#asdecoba)
 
 18:30 - 18:45 [Presentación de la escuela](#presentacion)
 
@@ -59,7 +59,7 @@ published: true
 
 14:30 - 16:00 Comida
 
-16:00 - 18:00 Visita a ASDECOBA y ASDECASAL
+16:00 - 18:00 Visita a ASDECASAL
 
 # Talleres
 
@@ -75,6 +75,17 @@ Al final de la sesión, las personas participantes:
 ### <a name="asdecoba"></a>Visita a ASDECOBA y ASDECASAL
 
 Conocemos las asociaciones que nos acogen y sus trabajos.
+
+- **Iniciativas de Asdecoba en el Barrio de Buenos Aires**.
+En un Barrio “sin salida” en el momento actual, hace 20 años ponemos en marcha tres iniciativas que permanecen sostenidas y apoyadas por la dinámica comunitaria y en red que ha ido posibilitando la misma realidad, la reflexión y la acción en el colectivo Asdecoba:
+  - Acompañamiento a niños y niñas con las iniciativas de educación de calle y el centro infantil “El Tren”.
+  - Acompañamiento a personas que vienen de espacios de “no vida”, (barrios, calle, cárcel,...), “Casa de Acogida”.
+  - Acompañamiento en el trabajo/empleo comunitario en la empresa de economía social “Algo Nuevo caterig”.
+- **Iniciativas de Asdecoba y Adecasal por unas nuevas relaciones entre el medio rural y el medio urbano**.
+Entrelazando espacios urbanos, rurales y criminalizados como la cárcel, durante los últimos 10 años han surgido iniciativas que buscan encontrar respuestas a derechos fundamentales e innegociables en las personas.
+  - Iniciativa comunitaria de trabajo campesino en 5 Has de huerta en tierras abandonadas.
+  - Iniciativa comunitaria de trabajo en un Centro de Transformación y envasado de productos hortícolas.
+  - Iniciativa de un Centro de Alimentación Comunitaria. (En desarrollo).
 
 ### <a name="presentacion"></a>Presentación de la escuela
 

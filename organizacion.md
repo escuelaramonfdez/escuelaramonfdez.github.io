@@ -21,38 +21,41 @@ Este año la escuela se traslada al barrio de Buenos Aires en Salamanca.
 
 ### Cómo llegar
 
-En transporte público:
+- En transporte público: Autobuses 1 y 11 desde la Estación de Renfe.
 
-- Autobuses 1 y 11 desde la Estación de Renfe.
+- En transporte particular: Si vas a venir en coche y puedes compartirlo comunícalo en el [Foro para compartir vehículos](/compartir-vehiculo.html) que hemos habilitado.
 
-En transporte particular:
+# Inscripción
 
-_**Importante**: Si vas a venir en coche y puedes compartirlo comunícalo en el [Foro para compartir vehículos](/compartir-vehiculo.html) que hemos habilitado._
-
-
-<!-- # Inscripción
-
-El precio de la inscripción es de 5 € más el coste del alojamiento y las comidas que elijas. Para inscribirte es imprescindible rellenar el formulario que la página de [inscripción](/inscripcion/index.html) antes de 26 de mazo.
+El precio de la inscripción es de 10 € más el coste del alojamiento y las comidas que elijas. Para inscribirte es imprescindible rellenar el formulario que la página de [inscripción](/inscripcion/index.html) antes del 31 de marzo.
 
 # Alojamiento
 
 Existen varios tipos de alojamientos:
 
-- Camas o colchones (7€)
-- Tiendas de campaña (Sin coste)
-
-En cualquier caso debes llevar saco de dormir o ropa de cama.
+- [Albergue municipal Lazarillo de Tormes](http://www.alberguesalamancamunicipal.com/). Precios:
+  - Menores de 30 años: 12.45€ por noche.
+  - Mayores de 30 años: 15.24€ por noche.
+- [Hospedería Dehon](http://www.hospederiadehon.com/). Precios:
+  - Habitación individual, 26,4€ por noche.
+  - Habitación doble, 22€ por noche.
+- Colchón en el suelo. Gratis. En este caso debes llevar saco de dormir o ropa de cama.
 
 # Niña/os
 
-Si vienes con niña/os habrá ludoteca. Por favor indicar en la ficha de inscripción cuanta/os niña/os vendrán y sus edades. -->
+Si vienes con niña/os habrá ludoteca. Por favor indicar en la ficha de inscripción cuanta/os niña/os vendrán y sus edades.
 
 # Alimentación
 
-20 euros de pensión completa por día + 5 euros de aportación para gastos. Por el fin de semana serían 50 euros en total.
+Habrá dos menús, normal y vegano. Si optas por el menú vegano debes indicarlo en la ficha de inscripción.
 
-# Normas y logística
+El precio de las comidas será:
 
+- Desayuno: 4€.
+- Comida: 8€.
+- Cena: 8€.
+
+Estos precios incluyen el café de los descansos entre sesiones.
 
 # Teléfonos de contacto
 
