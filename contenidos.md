@@ -45,6 +45,8 @@ published: true
 
 21:30 - 22:30 Cena
 
+22:30 Velada con "Músicas del mundo" amenizada por Valentín Ladrero.
+
 ## Domingo 15 de abril. Comunidades
 
 9:00 - 10:00 Desayuno
@@ -96,7 +98,7 @@ Habrá una exposición sobre Ramón durante toda la escuela.
 ### <a name="taller1"></a>¿Cuáles es la realidad de la educación transformadora?
 
 - Panorama de la educación popular en América Latina. Raúl Zibechi.
-- Panorama de la educación popular en España. Marta Pascual y Rosa Zafra.
+- Panorama de la educación popular en España. Marta Pascual.
 
 ### <a name="taller2"></a>¿Qué elementos hacen falta para hacerla más transformadora?
 
@@ -122,7 +124,7 @@ Al final de la sesión, las personas participantes:
 
 ### <a name="taller4"></a>Posibles escenarios futuros y presentes
 
-- Análisis de la situación actual y de posibles escenarios por venir.
+- Análisis de la situación actual y de posibles escenarios por venir. Luis González.
 - Ronda acotada de aportaciones.
 
 ### <a name="taller5"></a>Situación de sectores concretos
@@ -131,8 +133,8 @@ Todo el grupo se divide en los siguientes subgrupos por preferencia:
 
 - Alimentación. Isa Álvarez.
 - Energía. UCUER / Som Energia.
-- Cooperativismo. Emmanuel Rodríguez y David
-- Finanzas. Javi (COOP57).
+- Cooperativismo. Emmanuel Rodríguez
+- Finanzas. COOP57 y FIARE.
 - Vivienda. La Borda.
 
 Afronta las siguientes tareas:
