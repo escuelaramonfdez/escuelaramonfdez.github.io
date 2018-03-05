@@ -17,4 +17,5 @@ Y lo más importante, que te inscribas lo antes posible en la [página de inscri
 Contamos contigo.
 
 <img class="figure" src="/images/cartel_escuela_2018.jpg" alt="Cartel Escuela Social 4ª Edición"/>
+
 <img class="figure" src="/images/cartel_escuela_2018_b.jpg" alt="Cartel Escuela Social 4ª Edición"/>

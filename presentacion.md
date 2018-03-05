@@ -7,6 +7,8 @@ description: "Presentación de la Escuela Social Ramón Fernández Durán"
 
 <img class="figure" src="/images/cartel_escuela_2018.jpg" alt="Cartel Escuela Social 4ª Edición"/>
 
+<img class="figure" src="/images/cartel_escuela_2018_b.jpg" alt="Cartel Escuela Social 4ª Edición"/>
+
 # ¿Qué es la Escuela Social Ramón Fernández Durán?
 La Escuela Social Ramón Fernández Durán surge en homenaje al pensador y activista Ramón Fernández Durán.
 
@@ -15,11 +17,11 @@ Se trata de un espacio autogestionado de conocimiento mutuo, relación, y reflex
 Si tienes inquietud por cambiar este sistema capitalista inhumano y te apetece compartir reflexiones y análisis sociopolíticos, así como propuestas para transitar juntas hacia otros mundos más humanos y sustentables, no lo dudes, este es tu sitio.
 
 # ¿Quiénes han puesto en marcha esta escuela?
-Esta escuela ha sido fundada por Ecologistas en Acción, CGT y Baladre, pero está abierta y quiere contar con todos los colectivos y movimientos sociales, así que si tu colectivo está interesado en participar en su organización, no dudes en contactar con nosotros.
+Esta escuela ha sido fundada por [Ecologistas en Acción](https://ecologistasenaccion.org/), [CGT](http://cgt.org.es/) y [Baladre](http://coordinacionbaladre.org/), pero está abierta y quiere contar con todos los colectivos y movimientos sociales, así que si tu colectivo está interesado en participar en su organización, no dudes en contactar con nosotros. Este año en concreto también participa en su organización la [Red de Economía Solidaria REAS](https://www.economiasolidaria.org/).
 
 # ¿Quién era Ramón Fernández Durán?
 Ramón Fernández Durán, fue un pensador crítico y activista precursor de los movimientos sociales y fundador de Ecologistas en Acción.
-Dedicó su vida en cuerpo y alma a luchar contra la globalización capitalista y la era del petróleo, tejiendo redes entre muy diversos colectivos sociales, ligando el ecologismo social con el anarcosindicalismo y la lucha desde abajo de las excluídas del sistema.
+Dedicó su vida en cuerpo y alma a luchar contra la globalización capitalista y la era del petróleo, tejiendo redes entre muy diversos colectivos sociales, ligando el ecologismo social con el anarcosindicalismo y la lucha desde abajo de las excluidas del sistema.
 
 Publicó multitud de libros, entre los que cabe destacar "Capitalismo (financiero) global y guerra permanente*, *La compleja construcción de la Europa superpotencia*, *El crepúsculo de la era trágica del petróleo: Pico del oro negro y colapso financiero (y ecológico) mundial*, y *La Quiebra del Capitalismo Global: 2000­-2030*.
 
