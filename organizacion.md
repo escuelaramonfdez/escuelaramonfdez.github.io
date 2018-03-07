@@ -47,7 +47,7 @@ Si vienes con niña/os habrá ludoteca. Por favor indicar en la ficha de inscrip
 
 # Alimentación
 
-Habrá dos menús, normal y vegetariano. Si optas por el menú vegano debes indicarlo en la ficha de inscripción.
+Habrá dos menús, normal y vegetariano. Si optas por el menú vegetariano debes indicarlo en la ficha de inscripción.
 
 El precio de las comidas será:
 
