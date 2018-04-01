@@ -98,7 +98,7 @@ Habrá una exposición sobre Ramón durante toda la escuela.
 ### <a name="taller1"></a>¿Cuáles es la realidad de la educación transformadora?
 
 - Panorama de la educación popular en América Latina. Raúl Zibechi.
-- Panorama de la educación popular en España. Marta Pascual.
+- Panorama de la educación popular en España. Marta Pascual (Ecologistas en Acción).
 
 ### <a name="taller2"></a>¿Qué elementos hacen falta para hacerla más transformadora?
 
@@ -119,23 +119,23 @@ Al final de la sesión, las personas participantes:
 
 ### <a name="taller3"></a>Indicadores para una economía solidaria, feminista y ecológica
 
-- Presentación de la carta de principios y de algunos de los indicadores del balance social de REAS. Susana Ortega y Saloa.
+- Presentación de la carta de principios y de algunos de los indicadores del balance social de REAS. Diana Candela (REAS Madrid).
 - Ronda acotada de aportaciones.
 
 ### <a name="taller4"></a>Posibles escenarios futuros y presentes
 
-- Análisis de la situación actual y de posibles escenarios por venir. Luis González.
+- Análisis de la situación actual y de posibles escenarios por venir. Luis González (Ecologistas en Acción).
 - Ronda acotada de aportaciones.
 
 ### <a name="taller5"></a>Situación de sectores concretos
 
 Todo el grupo se divide en los siguientes subgrupos por preferencia:
 
-- Alimentación. Isa Álvarez.
-- Energía. UCUER / Som Energia.
-- Cooperativismo. Emmanuel Rodríguez
-- Finanzas. COOP57 y FIARE.
-- Vivienda. La Borda.
+- Alimentación. Isa Álvarez (Coordinación Baladre).
+- Energía. Energética.
+- Cooperativismo. Emmanuel Rodríguez y David.
+- Finanzas. Javier Ortega (COOP57) y Leandro Velasco (FIARE).
+- Vivienda. Entrepatios.
 
 Afronta las siguientes tareas:
 
@@ -166,8 +166,8 @@ Al final de la sesión, las personas participantes:
 
 ### <a name="taller8"></a>Experiencias de cultivos sociales
 
-- Salud mental. Flipa.
-- Vivienda. PAH Sabadell / PAH Vallecas.
+- Salud mental. FLIPAS GAM
+- Vivienda. PAH Sabadell.
 - Apoyo mutuo. Nosotras (Granada).
 
 ### <a name="taller9"></a>Enlazando todo
