@@ -45,7 +45,7 @@ published: true
 
 21:30 - 22:30 Cena
 
-22:30 Velada con "Músicas del mundo" amenizada por Valentín Ladrero.
+22:30 Velada con "Músicas del mundo".
 
 ## Domingo 15 de abril. Comunidades
 
@@ -132,7 +132,7 @@ Al final de la sesión, las personas participantes:
 Todo el grupo se divide en los siguientes subgrupos por preferencia:
 
 - Alimentación. Isa Álvarez (Coordinación Baladre).
-- Energía. Energética.
+- Energía. Olatz Azurza (UNCCUER).
 - Cooperativismo. Emmanuel Rodríguez y David.
 - Finanzas. Javier Ortega (COOP57) y Leandro Velasco (FIARE).
 - Vivienda. Entrepatios.
@@ -166,9 +166,9 @@ Al final de la sesión, las personas participantes:
 
 ### <a name="taller8"></a>Experiencias de cultivos sociales
 
-- Salud mental. FLIPAS GAM
-- Vivienda. PAH Sabadell.
-- Apoyo mutuo. Nosotras (Granada).
+- Salud mental. Concha Yague y Victor Sánchez (FLIPAS GAM)
+- Vivienda. Lotta (PAH Vallecas).
+- Apoyo mutuo. Jacqueline Loayza (Nosotras de Granada).
 
 ### <a name="taller9"></a>Enlazando todo
 
