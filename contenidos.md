@@ -7,7 +7,7 @@ comments: true
 published: true
 ---
 
-# Programa
+# Programa ([Versión en pdf](/docs/programa-escuela-RFD-2018.pdf))
 
 ## Viernes 13 de abril. [Educación transformadora](#educacion)
 
@@ -133,9 +133,9 @@ Todo el grupo se divide en los siguientes subgrupos por preferencia:
 
 - Alimentación. Isa Álvarez (Coordinación Baladre).
 - Energía. Olatz Azurza (UNCCUER).
-- Cooperativismo. Emmanuel Rodríguez y David.
-- Finanzas. Javier Ortega (COOP57) y Leandro Velasco (FIARE).
-- Vivienda. Entrepatios.
+- Cooperativismo. Emmanuel Rodríguez y David Gámez.
+- Finanzas. Javier Ortega (COOP57) y Leandro Velasco (FIARE-Castilla León).
+- Vivienda. Joan Miguel Gual (La Borda).
 
 Afronta las siguientes tareas:
 
@@ -146,8 +146,7 @@ Afronta las siguientes tareas:
 
 ### <a name="taller6"></a>Claves para dar saltos de escala
 
-- Exposición sobre las dificultades a la hora de realizar saltos de escala. Marca dónde están los desafíos.
-- Ronda acotada de aportaciones.
+- Claves para dar saltos de escala. Construcción colectiva.
 
 ### <a name="taller7"></a>Saltos de escala en sectores concretos
 
@@ -166,9 +165,9 @@ Al final de la sesión, las personas participantes:
 
 ### <a name="taller8"></a>Experiencias de cultivos sociales
 
-- Salud mental. Concha Yague y Victor Sánchez (FLIPAS GAM)
-- Vivienda. Lotta Meri Pirita (PAH Vallekas).
-- Apoyo mutuo. Jacqueline Loaiza (Nosotras de Granada).
+- Diversidad psíquica. Concha Yague y Victor Sánchez (FLIPAS GAM)
+- Vivienda. Lotta Meri Pirita Tenhunen (PAH Vallekas).
+- Apoyo mutuo. Jacqueline Loaiza Monzón(Nosotras de Granada).
 
 ### <a name="taller9"></a>Enlazando todo
 
