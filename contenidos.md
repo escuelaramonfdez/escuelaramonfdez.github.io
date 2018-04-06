@@ -167,8 +167,8 @@ Al final de la sesión, las personas participantes:
 ### <a name="taller8"></a>Experiencias de cultivos sociales
 
 - Salud mental. Concha Yague y Victor Sánchez (FLIPAS GAM)
-- Vivienda. Lotta (PAH Vallecas).
-- Apoyo mutuo. Jacqueline Loayza (Nosotras de Granada).
+- Vivienda. Lotta Meri Pirita (PAH Vallekas).
+- Apoyo mutuo. Jacqueline Loaiza (Nosotras de Granada).
 
 ### <a name="taller9"></a>Enlazando todo
 
