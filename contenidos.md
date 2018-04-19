@@ -179,4 +179,10 @@ Para trabajar sobre estos temas utilizaremos una metodología basada en la refle
 
 Dinamizarán Berta Iglesias y Ana Pérez.
 
-<!-- Puedes descargar el programa en formato [pdf](/docs/programa_escuela_ramon_fdez_2016.pdf). -->
+# Conclusiones y Materiales
+
+- [Presentación de Energía (UNCCUE)](https://drive.google.com/open?id=1uDWlMG1h7Q0OjG01GJMiuuq_xEAQhe8x)
+- [Indicadores Economía poscapitalista](https://drive.google.com/open?id=1sw0hcGJ23MofKefsCj2OBQoYNSW9vyo9)
+- [Escenarios](https://drive.google.com/open?id=141iQukhH9Guq2NnWIIYrUxBtMi3dqyjk)
+- [Educación](https://drive.google.com/open?id=1ybz3u0qoImcMc9TtkNLaKWq_NzrrHwJL)
+- [Cambios de escala](https://drive.google.com/open?id=1e45HEPuUuV_tXeoJ8UmxcyMm5urzO-bC)
