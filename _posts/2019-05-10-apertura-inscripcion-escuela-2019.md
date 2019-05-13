@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Abrimos la inscripción para la escuela de los movimientos sociales de 2019"
+date: "2018-04-01"
+comments: true
+---
+
+Un poco más tarde que de costumbre pero ya estamos aquí con una nueva edición de la Escuela Ramón Fernández Duran, la escuela de los movimientos sociales, tu escuela. 
+
+Este año volvemos 7 al 9 de junio al Barrio de Buenos Aires en Salamanca para recordar el buen sabor que nos quedó el año pasado y abordar juntas nuevos retos y desafíos.
+
+En esta edición enlazaremos con el trabajo realizado en la última sesión del curso pasado para trabajar sobre Comunidades del siglo XXI en resistencia frente a múltiples frentes (capitalismo financiero, pérdida de derechos, aumento de la desigualdad, agotamiento de recursos naturales y cambio climático, y auge de nuevos fascismos).
+
+De todo ello y más hablaremos y profundizaremos en esta edición de la escuela que no te puedes perder. Pero para ello debes rellenar la [ficha de inscripción](/inscripcion/) antes del 31 Mayo. Así que ya sabes, a inscribirte cuanto antes y darle difusión entre tus contactos.
+
+<img class="figure" src="/images/cartel_escuela_2018.jpg" alt="Cartel Escuela Social 5ª Edición"/>

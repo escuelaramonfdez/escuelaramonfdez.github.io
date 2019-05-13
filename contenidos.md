@@ -7,9 +7,9 @@ comments: true
 published: true
 ---
 
-# Programa ([Versión en pdf](/docs/programa-escuela-RFD-2019.pdf))
+## Programa
 
-## Viernes 7 de junio
+### Viernes 7 de junio
 
 19:00 - 20:00 Historia de la Escuela Ramón Fernández Durán
 
@@ -17,7 +17,7 @@ published: true
 
 21:30 - 22:30 Cena
 
-## Sábado 8 de junio
+### Sábado 8 de junio
 
 9:00 - 9:30 Desayuno
 
@@ -41,7 +41,7 @@ published: true
 
 21:00 - 22:00 Cena
 
-## Domingo 9 de junio
+### Domingo 9 de junio
 
 9:00 - 9:30 Desayuno
 
@@ -57,9 +57,9 @@ published: true
 
 14:00 - 16:00 Comida
 
-# Talleres
+## Talleres
 
-## <a name="taller1"></a>Espacios y personas que determinan la resistencia en nuestros movimientos
+### <a name="taller1"></a>Espacios y personas que determinan la resistencia en nuestros movimientos
 
 Se trabajará sobre cuatro espacios:
 
@@ -97,6 +97,6 @@ Las ponentes presentarán un relato de vida con cada una de las herramientas y s
 
 Af final de la sesión las personas participantes tendrán una visión más clara sobre las fortalezas y debilidades de cada herramienta y sus complementariedades, así como su uso efectivo para caminar hacia las comunidades del siglo XXI.
 
-# Metodología
+## Metodología
 
 Para trabajar sobre estos temas utilizaremos una metodología basada en la reflexión, el análisis y la construcción colectiva de conocimientos y herramientas.

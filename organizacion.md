@@ -34,8 +34,8 @@ El precio de la inscripción es de 5 € más el coste del alojamiento y las com
 Existen varios tipos de alojamientos:
 
 - [Albergue municipal Lazarillo de Tormes](http://www.alberguesalamancamunicipal.com/). Precios:
-  - Menores de 30 años: 12.45€ por noche.
-  - Mayores de 30 años: 15.24€ por noche.
+  - Menores de 30 años: 12.56€ por noche.
+  - Mayores de 30 años: 15.37€ por noche.
 - [Hospedería Dehon](http://www.hospederiadehon.com/). Precios:
   - Habitación individual, 26,4€ por noche.
   - Habitación doble, 22€ por noche.
