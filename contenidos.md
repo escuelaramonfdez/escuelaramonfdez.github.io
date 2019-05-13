@@ -2,187 +2,101 @@
 layout: page
 permalink: /contenidos/
 title: Contenidos
-description: Contenidos de la Escuela Social Ramón Fernández Durán 2018
+description: Contenidos de la Escuela Social Ramón Fernández Durán 2019
 comments: true
 published: true
 ---
 
-# Programa ([Versión en pdf](/docs/programa-escuela-RFD-2018.pdf))
+# Programa ([Versión en pdf](/docs/programa-escuela-RFD-2019.pdf))
 
-## Viernes 13 de abril. [Educación transformadora](#educacion)
+## Viernes 7 de junio
 
-16:00 - 18:00 [Visita a ASDECOBA](#asdecoba)
+19:00 - 20:00 Historia de la Escuela Ramón Fernández Durán
 
-18:30 - 18:45 [Presentación de la escuela](#presentacion)
-
-18:45 - 19:30 [¿Cuáles es la realidad de la educación transformadora?](#taller1)
-
-19:30 - 21:00 [¿Qué elementos hacen falta para hacerla más transformadora?](#taller2)
+20:00 - 21:00 Situación y contexto actual para las relaciones entre Baladre, CGT y Ecologistas en Acción
 
 21:30 - 22:30 Cena
 
-## Sábado 14 de abril. [Economías alternativas](#economia)
+## Sábado 8 de junio
 
-9:00 - 10:00 Desayuno
+9:00 - 9:30 Desayuno
 
-10:00 - 10:45 [Indicadores para una economía solidaria, feminista y ecológica](#taller3)
+9:30 Presentación de la temática de este curso
 
-10:45 - 11:30 [Posibles escenarios futuros y presentes](#taller4)
+10:00 - 11:45 [Taller sobre espacios y personas en resistencia](#taller1)
  
-11:30 - 12:00 Descanso
+11:45 - 12:00 Café
 
-12:00 -14:00 [Situación de sectores concretos](#taller5)
+12:00 -14:00 Puesta en común y debate abierto en asamblea.
 
 14:00-16:00 Comida
 
-16:00 - 16:30 [Claves para dar saltos de escala](#taller6)
+16:00 - 17:30 [Mesa de intervenciones sobre experiencias en situaciones de resistencia](#taller2)
 
-16:00 -18:30 [Saltos de escala en sectores concretos](#taller7)
+17:30 - 18:00 Café
 
-18:30 - 19:00 Descanso
+18:00 - 19:15 Trabajo en grupos
 
-19:00 - 20:00 Debate abierto
+19:15 - 20:00 Puesta en común y construcción del segundo mapa
 
-21:30 - 22:30 Cena
+21:00 - 22:00 Cena
 
-22:30 Velada con "Músicas del mundo".
+## Domingo 9 de junio
 
-## Domingo 15 de abril. Comunidades
+9:00 - 9:30 Desayuno
 
-9:00 - 10:00 Desayuno
+9:30 - 10:45 [Mesa de intervenciones sobre experiencias con herramientas para la resistencia](#taller3)
 
-10:00 - 11:00 [Experiencias de cultivos sociales](#taller8)
+10:45 - 11:45 Trabajo en grupos
 
-11:00 - 12:00 Debate abierto
+11:45 - 12:00 Café
 
-12:00 - 12:30 Descanso
+12:00 - 13:00 Puesta en común
 
-12:30 - 14:30 [Enlazando todo](#taller9)
+13:00 - 14:00 Evaluación y despedida
 
-14:30 - 16:00 Comida
-
-16:00 - 18:00 Visita a ASDECASAL
+14:00 - 16:00 Comida
 
 # Talleres
 
-## <a name="educacion"></a>Educación transformadora
+## <a name="taller1"></a>Espacios y personas que determinan la resistencia en nuestros movimientos
 
-Al final de la sesión, las personas participantes:
+Se trabajará sobre cuatro espacios:
 
-- Conocerán quién era Ramón Fernández Durán.
-- Conocerán experiencias de educación transformadora.
-- Tendrán más elementos para mejorar el currículo en la educación transformadora.
-- Tendrán una visión más sistémica que interrelacione los cuidados, la economía y la educación.
+- Los barrios “sin vuelta atrás”.
+- El Medio rural “expoliado”; pueblos y campesinado.
+- Los colectivos y personas que sufren dolor, represión, etc.
+- Otros espacios y otros colectivos mirando desde nuestros movimientos como la ecología o los feminismos.
 
-### <a name="asdecoba"></a>Visita a ASDECOBA y ASDECASAL
+Al final de la sesión las personas participantes tendrán una visión más clara de las situaciones comunes de resistencias de los distintos colectivos en los cuatro espacios anteriores, y se dispondrá de un mapa común de las comunidades en resistencia en estos espacios.
 
-Conocemos las asociaciones que nos acogen y sus trabajos.
+### <a name="taller2"></a>Enfrentando las diversas sittuaciones, qué empeños prioritarios estamos poniendo en las resistencias
 
-- **Iniciativas de Asdecoba en el Barrio de Buenos Aires**.
-En un Barrio “sin salida” en el momento actual, hace 20 años ponemos en marcha tres iniciativas que permanecen sostenidas y apoyadas por la dinámica comunitaria y en red que ha ido posibilitando la misma realidad, la reflexión y la acción en el colectivo Asdecoba:
-  - Acompañamiento a niños y niñas con las iniciativas de educación de calle y el centro infantil “El Tren”.
-  - Acompañamiento a personas que vienen de espacios de “no vida”, (barrios, calle, cárcel,...), “Casa de Acogida”.
-  - Acompañamiento en el trabajo/empleo comunitario en la empresa de economía social “Algo Nuevo caterig”.
-- **Iniciativas de Asdecoba y Adecasal por unas nuevas relaciones entre el medio rural y el medio urbano**.
-Entrelazando espacios urbanos, rurales y criminalizados como la cárcel, durante los últimos 10 años han surgido iniciativas que buscan encontrar respuestas a derechos fundamentales e innegociables en las personas.
-  - Iniciativa comunitaria de trabajo campesino en 5 Has de huerta en tierras abandonadas.
-  - Iniciativa comunitaria de trabajo en un Centro de Transformación y envasado de productos hortícolas.
-  - Iniciativa de un Centro de Alimentación Comunitaria. (En desarrollo).
+En este taller habrá una introducción por parte de ponentes y después trabajo en grupo sobre seis situaciones que nos encontramos en la resistencia:
 
-### <a name="presentacion"></a>Presentación de la escuela
+- Precariedad de la vida y derechos fundamentales.
+- Pasividad social y resistencias conjuntas.
+- Agroecología y lo común.
+- Mordazas y autonomía.
+- Economía de mercado y economía comunitaria.
+- Colapso y nuevos modelos de vivir.
 
-Presentación de la escuela y de la figura de Ramón Fernández Durán.
+Al final de la sesión las personas participantes tendrán un conocimiento mayor sobre los principales retos a afrontar en cada situación de resistencia y los empeños prioritarios en estas, valorando si son efectivos o no en cada caso o si pueden servir para otros casos. Se creará un segundo mapa con los empeños prioritarios de las situaciones de resistencia trabajados en cada grupo.
 
-Habrá una exposición sobre Ramón durante toda la escuela.
+### <a name="taller3"></a>Herramientas para la resistencia: De la sociedad de las palabras a las comunidades con respuestas
 
-### <a name="taller1"></a>¿Cuáles es la realidad de la educación transformadora?
+En este taller habrá una introducción por parte de ponentes y después trabajo en grupo sobre cinco herramientas que estamos utilizando en la resistencia:
 
-- Panorama de la educación popular en América Latina. Raúl Zibechi.
-- Panorama de la educación popular en España. Marta Pascual (Ecologistas en Acción).
+- Poner el cuerpo y las vidas como acompañantes en la resistencia.
+- Trabajo, que no empleo para provocar otras relaciones.
+- La credibilidad en las relaciones comunitarias.
+- Redes pequeñas que entrelazan.
+- Mirada feminista en la resistencia.
 
-### <a name="taller2"></a>¿Qué elementos hacen falta para hacerla más transformadora?
+Las ponentes presentarán un relato de vida con cada una de las herramientas y se debatirá si estas cinco herramientas son o no determinantes en nuestras resistencias y cómo cuidamos en nuestro colectivo o movimiento alguna de estas herramientas (Si en la resistencia ponemos nuestros cuerpos y nuestras vidas concretas y reales. Si el trabajo/empleo como herramienta necesaria de resistencia, como hemos determinado  servirnos de ella. Si nuestra credibilidad y la de nuestras iniciativas, todavía, se sostiene solamente desde criterios de rentabilidad. Si nuestra fuerza y nuestro poder está en entrelazar lo micro, las pequeñas iniciativas. Si nuestras resistencias contemplan siempre el horizonte desde la mirada feminista...).
 
-En grupos se proponen cambios:
-
-- En los objetivos.
-- En los contenidos.
-- En el método.
-- En la evaluación.
-
-## <a name="economia"></a>Economías alternativas
-
-Al final de la sesión, las personas participantes:
-
-- Tendrán más claros qué elementos hacen a las iniciativas alternativas poscapitalistas.
-- Habrán pulido sus proyecciones de por dónde puede evolucionar el sistema actual.
-- Habrán mejorado su capacidad para construir alternativas poscapitalistas que den saltos de escala en los contextos por venir.
-
-### <a name="taller3"></a>Indicadores para una economía solidaria, feminista y ecológica
-
-- Presentación de la carta de principios y de algunos de los indicadores del balance social de REAS. Diana Candela (REAS Madrid).
-- Ronda acotada de aportaciones.
-
-### <a name="taller4"></a>Posibles escenarios futuros y presentes
-
-- Análisis de la situación actual y de posibles escenarios por venir. Luis González (Ecologistas en Acción).
-- Ronda acotada de aportaciones.
-
-### <a name="taller5"></a>Situación de sectores concretos
-
-Todo el grupo se divide en los siguientes subgrupos por preferencia:
-
-- Alimentación. Isa Álvarez (Coordinación Baladre).
-- Energía. Olatz Azurza (UNCCUER).
-- Cooperativismo. Emmanuel Rodríguez y David Gámez.
-- Finanzas. Javier Ortega (COOP57) y Leandro Velasco (FIARE-Castilla León).
-- Vivienda. Joan Miguel Gual (La Borda).
-
-Afronta las siguientes tareas:
-
-- Matización de los indicadores.
-- Matización de los escenarios futuros.
-- Introducción de la situación de la economía social, feminista y ecológica en el sector.
-- Aplicación de los indicadores al sector.
-
-### <a name="taller6"></a>Claves para dar saltos de escala
-
-- Claves para dar saltos de escala. Construcción colectiva.
-
-### <a name="taller7"></a>Saltos de escala en sectores concretos
-
-Tareas:
-
-- Las personas vuelven a sus grupos y elabora medidas concretas para dar saltos de escala en el sector atendiendo a: 1) Los contextos por venir; 2) Los indicadores; 3) La gestión del riesgo; 4) Los contextos políticos y culturales que sería necesario impulsar.
-- Puesta en común en grupo grande de: 1) La situación del sector (la aplicación de los indicadores); 2) Las partes del plan de trabajo para el salto de escala que puedan ser aplicables a otros sectores.
-
-## <a name="comunidades"></a>Comunidades
-
-Al final de la sesión, las personas participantes:
-
-- Valorarán que las comunidades del siglo XXI tienen que partir de relaciones más sanas, cargadas de cuidados y afectos.
-- Valorarán que también tienen que construir cultivos sociales (redes que se orientan, explícita y fundamentalmente, a la generación de espacios y relaciones con los que satisfacer, lo más directamente posible, un conjunto de necesidades básicas, sean estas materiales, expresivas, afectivas y de relación con la naturaleza).
-- Conocerán que los cultivos sociales tienen un afán explícito y consciente de construir otros mundos desde abajo cuestionando las lógicas del capitalismo desde un sentido de la colectividad.
-
-### <a name="taller8"></a>Experiencias de cultivos sociales
-
-- Diversidad psíquica. Concha Yague y Victor Sánchez (FLIPAS GAM)
-- Vivienda. Lotta Meri Pirita Tenhunen (PAH Vallekas).
-- Apoyo mutuo. Jacqueline Loaiza Monzón(Nosotras de Granada).
-
-### <a name="taller9"></a>Enlazando todo
-
-Por grupos enlazan en formato mapa conceptual las conclusiones de los tres momentos de la escuela (comunidades, economía y educación) buscando las sinergias.
+Af final de la sesión las personas participantes tendrán una visión más clara sobre las fortalezas y debilidades de cada herramienta y sus complementariedades, así como su uso efectivo para caminar hacia las comunidades del siglo XXI.
 
 # Metodología
 
 Para trabajar sobre estos temas utilizaremos una metodología basada en la reflexión, el análisis y la construcción colectiva de conocimientos y herramientas.
-
-Dinamizarán Berta Iglesias y Ana Pérez.
-
-# Conclusiones y Materiales
-
-- [Presentación de Energía (UNCCUE)](https://drive.google.com/open?id=1uDWlMG1h7Q0OjG01GJMiuuq_xEAQhe8x)
-- [Indicadores Economía poscapitalista](https://drive.google.com/open?id=1sw0hcGJ23MofKefsCj2OBQoYNSW9vyo9)
-- [Escenarios](https://drive.google.com/open?id=141iQukhH9Guq2NnWIIYrUxBtMi3dqyjk)
-- [Educación](https://drive.google.com/open?id=1ybz3u0qoImcMc9TtkNLaKWq_NzrrHwJL)
-- [Cambios de escala](https://drive.google.com/open?id=1e45HEPuUuV_tXeoJ8UmxcyMm5urzO-bC)

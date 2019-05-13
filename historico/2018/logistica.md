@@ -1,19 +1,18 @@
 ---
 layout: page
-permalink: /logistica/
 title: Logística
-description: Logística de la Escuela Social Ramón Fernández Durán 2019
+description: Logística de la Escuela Social Ramón Fernández Durán 2018
 comments: true
 published: true
 ---
 
 # Fechas
 
-La edición de 2018 de la Escuela Social Ramón Fernández Durán será del 7 al 8 de junio.
+La edición de 2018 de la Escuela Social Ramón Fernández Durán será del 13 al 15 de abril.
 
 ## Lugar
 
-Este año repetimos en el barrio de Buenos Aires en Salamanca.
+Este año la escuela se traslada al barrio de Buenos Aires en Salamanca.
 
 <div style="text-align: center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3013.1977509864723!2d-5.706923680712986!3d40.95524655560456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd3f27bdd89fdd87%3A0x93cddc2fd3cbcb55!2sASDECOBA!5e0!3m2!1ses!2ses!4v1518954592467" width="600" height="450" frameborder="0" style="border:0"></iframe>
@@ -27,7 +26,7 @@ Este año repetimos en el barrio de Buenos Aires en Salamanca.
 
 # Inscripción
 
-El precio de la inscripción es de 5 € más el coste del alojamiento y las comidas que elijas. Para inscribirte es imprescindible rellenar el formulario que la página de [inscripción](/inscripcion/index.html) antes del 31 de mayo.
+El precio de la inscripción es de 10 € más el coste del alojamiento y las comidas que elijas. Para inscribirte es imprescindible rellenar el formulario que la página de [inscripción](/inscripcion/index.html) antes del 8 de abril.
 
 # Alojamiento
 
@@ -59,4 +58,4 @@ Estos precios incluyen el café de los descansos entre sesiones.
 
 # Teléfonos de contacto
 
-Si tienes cualquier problema puedes llamarnos a cualquiera de los siguientes teléfonos: 656624528 (Baladre), 689026027 (CGT) o 649843091 (Ecologistas).
+Si tienes cualquier problema puedes llamarnos a cualquiera de los siguientes teléfonos: 656624528 (Baladre), 689026027 (CGT) o 656595591 (Ecologistas).
