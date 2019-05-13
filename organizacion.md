@@ -31,7 +31,7 @@ El precio de la inscripción es de 5 € más el coste del alojamiento y las com
 
 # Alojamiento
 
-Existen varios tipos de alojamientos:
+El alojamiento es autogestionado, es decir, cada una tiene que encargarse de reservar su alojamiento, pero os proponemos varias alternativas:
 
 - [Albergue municipal Lazarillo de Tormes](http://www.alberguesalamancamunicipal.com/). Precios:
   - Menores de 30 años: 12.56€ por noche.
