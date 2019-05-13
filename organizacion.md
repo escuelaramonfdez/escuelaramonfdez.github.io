@@ -9,7 +9,7 @@ published: true
 
 # Fechas
 
-La edición de 2018 de la Escuela Social Ramón Fernández Durán será del 7 al 8 de junio.
+La edición de 2019 de la Escuela Social Ramón Fernández Durán será del 7 al 8 de junio.
 
 ## Lugar
 

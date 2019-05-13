@@ -5,7 +5,7 @@ date: "2019-05-10"
 comments: true
 ---
 
-Un poco más tarde que de costumbre pero ya estamos aquí con una nueva edición de la Escuela Ramón Fernández Duran, la escuela de los movimientos sociales, tu escuela. 
+Un poco más tarde que de costumbre pero ya estamos aquí con una nueva edición de la Escuela Ramón Fernández Duran, la escuela de los movimientos sociales, tu escuela.
 
 Este año volvemos 7 al 9 de junio al Barrio de Buenos Aires en Salamanca para recordar el buen sabor que nos quedó el año pasado y abordar juntas nuevos retos y desafíos.
 
