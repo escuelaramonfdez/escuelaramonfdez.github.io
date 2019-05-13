@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abrimos la inscripción para la escuela de los movimientos sociales de 2019"
-date: "2018-04-01"
+date: "2019-05-10"
 comments: true
 ---
 
