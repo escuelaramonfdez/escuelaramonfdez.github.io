@@ -13,7 +13,7 @@ published: true
 
 19:00 - 20:00 Historia de la Escuela Ramón Fernández Durán
 
-20:00 - 21:00 Situación y contexto actual para las relaciones entre Baladre, CGT y Ecologistas en Acción
+20:00 - 21:00 Coloquio sobre la situación y contexto actual 
 
 21:30 - 22:30 Cena
 

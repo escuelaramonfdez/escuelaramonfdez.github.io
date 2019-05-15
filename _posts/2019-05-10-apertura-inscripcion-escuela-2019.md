@@ -13,4 +13,4 @@ En esta edición enlazaremos con el trabajo realizado en la última sesión del 
 
 De todo ello y más hablaremos y profundizaremos en esta edición de la escuela que no te puedes perder. Pero para ello debes rellenar la [ficha de inscripción](/inscripcion/) antes del 31 Mayo. Así que ya sabes, a inscribirte cuanto antes y darle difusión entre tus contactos.
 
-<img class="figure" src="/images/cartel_escuela_2018.jpg" alt="Cartel Escuela Social 5ª Edición"/>
+<img class="figure" src="/images/cartel_escuela_2019.jpg" alt="Cartel Escuela Social 5ª Edición"/>

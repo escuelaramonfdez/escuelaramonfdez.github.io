@@ -9,7 +9,7 @@ published: true
 
 # Fechas
 
-La edición de 2019 de la Escuela Social Ramón Fernández Durán será del 7 al 8 de junio.
+La edición de 2019 de la Escuela Social Ramón Fernández Durán será del 7 al 9 de junio.
 
 ## Lugar
 
@@ -27,7 +27,7 @@ Este año repetimos en el barrio de Buenos Aires en Salamanca.
 
 # Inscripción
 
-El precio de la inscripción es de 5 € más el coste del alojamiento y las comidas que elijas. Para inscribirte es imprescindible rellenar el formulario que la página de [inscripción](/inscripcion/index.html) antes del 31 de mayo.
+El precio de la inscripción es de 5 € más el coste de las comidas que elijas. Para inscribirte es imprescindible rellenar el formulario que la página de [inscripción](/inscripcion/index.html) antes del 31 de mayo.
 
 # Alojamiento
 
