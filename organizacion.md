@@ -37,8 +37,8 @@ El alojamiento es autogestionado, es decir, cada una tiene que encargarse de res
   - Menores de 30 años: 12.56€ por noche.
   - Mayores de 30 años: 15.37€ por noche.
 - [Hospedería Dehon](http://www.hospederiadehon.com/). Precios:
-  - Habitación individual, 26,4€ por noche.
-  - Habitación doble, 22€ por noche.
+  - Habitación individual, 30€ por noche (alojamiento y desayuno).
+  - Habitación doble, 25€ por noche (alojamiento y desayuno).
 - Colchón en el suelo. Gratis. En este caso debes llevar saco de dormir o ropa de cama.
 
 # Niña/os
