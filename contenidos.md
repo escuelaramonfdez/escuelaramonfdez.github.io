@@ -103,4 +103,4 @@ Para trabajar sobre estos temas utilizaremos una metodología basada en la refle
 
 Si quieres saber más escucha el siguiente audio.
 
-<iframe id='audio_35878090' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:60%;' src="https://www.ivoox.com/player_ej_35878090_4_1.html?c1=ff6600"></iframe>
+<iframe id='audio_35878090' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='display:block; width:60%; margin:auto;' src="https://www.ivoox.com/player_ej_35878090_4_1.html?c1=ff6600"></iframe>
