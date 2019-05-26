@@ -33,6 +33,8 @@ El precio de la inscripción es de 5 € más el coste de las comidas que elijas
 
 El alojamiento es autogestionado, es decir, cada una tiene que encargarse de reservar su alojamiento, pero os proponemos varias alternativas:
 
+- [Albergue juvenil Salamanca](http://www.alberguesalamanca.com/). Precios:
+  - Habitación compartida: 13.90€ por noche.
 - [Albergue municipal Lazarillo de Tormes](http://www.alberguesalamancamunicipal.com/). Precios:
   - Menores de 30 años: 12.56€ por noche.
   - Mayores de 30 años: 15.37€ por noche.
