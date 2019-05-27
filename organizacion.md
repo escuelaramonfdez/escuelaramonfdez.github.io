@@ -35,9 +35,6 @@ El alojamiento es autogestionado, es decir, cada una tiene que encargarse de res
 
 - [Albergue juvenil Salamanca](http://www.alberguesalamanca.com/). Precios:
   - Habitación compartida: 13.90€ por noche.
-- [Albergue municipal Lazarillo de Tormes](http://www.alberguesalamancamunicipal.com/). Precios:
-  - Menores de 30 años: 12.56€ por noche.
-  - Mayores de 30 años: 15.37€ por noche.
 - [Hospedería Dehon](http://www.hospederiadehon.com/). Precios:
   - Habitación individual, 30€ por noche (alojamiento y desayuno).
   - Habitación doble, 25€ por noche (alojamiento y desayuno).
