@@ -33,7 +33,7 @@ El precio de la inscripción es de 5 € más el coste de las comidas que elijas
 
 El alojamiento es autogestionado, es decir, cada una tiene que encargarse de reservar su alojamiento, pero os proponemos varias alternativas:
 
-- [Albergue juvenil Salamanca](http://www.alberguesalamanca.com/). Precios:
+- [Albergue juvenil Salamanca](http://www.alberguesalamanca.com/). Para inscribirse hay que llamar al teléfono 923269141. Piden una tarjeta de crédito pero no cargan nada y se puede anular la reserva hasta 48 horas antes. Precios:
   - Habitación compartida: 13.90€ por noche.
 - [Hospedería Dehon](http://www.hospederiadehon.com/). Precios:
   - Habitación individual, 30€ por noche (alojamiento y desayuno).
