@@ -27,7 +27,7 @@ Este año repetimos en el barrio de Buenos Aires en Salamanca.
 
 # Inscripción
 
-El precio de la inscripción es de 5 € más el coste de las comidas que elijas. Para inscribirte es imprescindible rellenar el formulario que la página de [inscripción](/inscripcion/index.html) antes del 31 de mayo.
+El precio de la inscripción es de 5 € más el coste de las comidas que elijas. Para inscribirte es imprescindible rellenar el formulario que la página de [inscripción](/inscripcion/index.html) antes del 5 de junio.
 
 # Alojamiento
 
