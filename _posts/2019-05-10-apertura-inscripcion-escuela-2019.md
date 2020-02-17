@@ -16,5 +16,3 @@ Pero deja que te lo contemos con más detalle...
 <iframe id='audio_35878090' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='display:block; width:60%; margin:auto;' src="https://www.ivoox.com/player_ej_35878090_4_1.html?c1=ff6600"></iframe>
 
 De todo ello y más hablaremos y profundizaremos en esta edición de la escuela que no te puedes perder. Pero para ello debes rellenar la [ficha de inscripción](/inscripcion/) antes del 31 Mayo. Así que ya sabes, a inscribirte cuanto antes y darle difusión entre tus contactos.
-
-
