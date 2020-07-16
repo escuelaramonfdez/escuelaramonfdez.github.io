@@ -1,32 +1,37 @@
 ---
 layout: post
-title: "Ampliamos el plazo de inscripción para la escuela de los movimientos sociales de 2019"
-date: "2019-05-29"
+title: "Jornada _Tiempos de Colapso_: ¿Cómo reproducir la vida en estos tiempos?"
+date: "2020-07-17"
 comments: true
 ---
 
-¿Cómo? ¿Qué aún no te has inscrito? Pues estás de suerte porque hemos ampliado el plazo de inscripción para la Escuela Ramón Fernández Durán hasta el 5 de junio.
-Pero no lo dejes para más tarde porque entonces te la perderás. Sólo tienes que rellenar esta sencilla [ficha de inscripción](/inscripcion/) y en menos de 10 días nos vemos en Salamanca.
+Aunque este año, por motivo del COVID19, no vamos a organizar la Escuela de los Movimientos Sociales, no queríamos dejar de vernos, aún con distanciamiento social, para compartir juntas las vivencias que la crisis del COVID19 nos ha traído en el contexto de lo que hemos venido trabajando en las anteriores ediciones de la escuela.
 
-Aquí tienes el programa de este año para que no te lo pienses más.
+Por ello os animamos a participar en una jornada que las compas de Baladre han organizado para el próximo sábado 1 de Agosto con el siguiente programa:
 
-### Viernes 7 de junio
+![Cartel Tiempos Colapso](/images/cartel-encuento-tiempos-colapso.jpg)
 
-19:00 - 20:00 Historia de la Escuela Ramón Fernández Durán  
-20:00 - 21:00 Coloquio sobre la situación y contexto actual  
 
-### Sábado 8 de junio
-9:30 Presentación de la temática de este curso  
-10:00 - 11:45 Taller sobre espacios y personas en resistencia  
-12:00 - 14:00 Puesta en común y debate abierto en asamblea  
-16:00 - 17:30 Mesa de intervenciones sobre experiencias en situaciones de resistencia  
-18:00 - 19:15 Trabajo en grupos  
-19:15 - 20:00 Puesta en común y construcción del segundo mapa
+- 10:00 a 12:00 EXPERIENCIAS DE RESPUESTAS DIFERENTES ANTE EL COLAPSO: DESDE ABAJO, PONIENTO LO COMUNITARIO Y LO COMÚN EN EL CENTRO.
+    - Rosa Zafra sobre cuidados y sostenernos en el medio rural.
+    - Nano Patón sobre compras colectivas, huertas barriales y redes de cuidados.
+    - Experiencia de PAH sobre gestión colectiva de espacios en la ciudad.
 
-### Domingo 9 de junio
-9:30 - 10:45 Mesa de intervenciones sobre experiencias con herramientas para la resistencia  
-10:45 - 11:45 Trabajo en grupos  
-12:00 - 13:00 Puesta en común  
-13:00 - 14:00 Evaluación y despedida
+- 12:30 a 14:30 COMO SUPERAR LA CENTRALIDAD DEL EMPLEO. Herramientas/propuestas de:
+    - Asedecoba de Salamanca.
+    - Reflexión y experiencia de Ciclos.
+    - De las RMIs a la RBis, por una Baladrina.
 
-¡Te esperamos!
+- 14:30 a 16:30 COMIDA Y DESCANSO, con tertulia informal. La comida la tendremos que llevar cada persona.
+
+- 16:30 a 18:30 GENERANDO COMUNIDAD
+    - Entrepaitos, más allá de vivir juntas, ¿cómo generar mancha de aceite?
+    - La casa de La Orotava. Vidas entrelazadas, en una COMUNIDAD en las laderas del Teide.
+
+- 18:30 a 19:30 COMPARTIENDO LAS REFLEXIONES DEL DIA. Ordenar prioridades, intuiciones, colocar reflexiones y dudas.
+  
+- 19:30 a 20:30 PRESENTACIONES DEL MOMENTO.
+    - Espacio en construcción contra las desigualdades, por la justicia social y ambiental. 
+    - Libro _Tiempos de Colapso_, los pueblos en movimiento de Raúl Zibechi.
+
+Inscripciones a través de la web de Baladre hasta completar aforo.
