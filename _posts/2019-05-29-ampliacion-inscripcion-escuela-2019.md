@@ -12,27 +12,26 @@ Por ello os animamos a participar en una jornada que las compas de Baladre han o
 ![Cartel Tiempos Colapso](/images/cartel-encuento-tiempos-colapso.jpg)
 
 
-- 10:00 a 12:00 EXPERIENCIAS DE RESPUESTAS DIFERENTES ANTE EL COLAPSO: DESDE ABAJO, PONIENDO LO COMUNITARIO Y LO COMÚN EN EL CENTRO.
+- 10:00 ACOGIDA y explicación de funcionamiento y temáticas.
+- 10:30 a 11:30 EXPERIENCIAS DE RESPUESTAS DIFERENTES ANTE EL COLAPSO: DESDE ABAJO, PONIENDO LO COMUNITARIO Y LO COMÚN EN EL CENTRO.
     - Rosa Zafra sobre cuidados y sostenernos en el medio rural.
-    - Nano Patón sobre compras colectivas, huertas barriales y redes de cuidados.
-    - Experiencia de PAH sobre gestión colectiva de espacios en la ciudad.
+    - Bibi Deliras . Acompañamiento y cuidados desde la experiencia de Erletxe y Stop Desahucios.
+    - Entrepatios una comunidad en construcción.
 
-- 12:30 a 14:30 COMO SUPERAR LA CENTRALIDAD DEL EMPLEO. Herramientas/propuestas de:
+- 11:45 a 12:45 COMO SUPERAR LA CENTRALIDAD DEL EMPLEO. Herramientas/propuestas de:
     - Asdecoba de Salamanca.
-    - Reflexión y experiencia de Ciclos.
-    - De las RMIs a la RBis, por una Baladrina.
-
-- 14:30 a 16:30 COMIDA Y DESCANSO, con tertulia informal. La comida la tendremos que llevar cada persona.
-
-- 16:30 a 18:30 GENERANDO COMUNIDAD
-    - Entrepatios, más allá de vivir juntas, ¿cómo generar mancha de aceite?
-    - La casa de La Orotava. Vidas entrelazadas, en una COMUNIDAD en las laderas del Teide.
-
-- 18:30 a 19:30 COMPARTIENDO LAS REFLEXIONES DEL DIA. Ordenar prioridades, intuiciones, colocar reflexiones y dudas.
+    - Reflexión y experiencia de Ciclos de Madrid.
+    - De las RMIs a la RBis, por gentes de Baladre.
   
-- 19:30 a 20:30 PRESENTACIONES DEL MOMENTO.
-    - Espacio en construcción contra las desigualdades, por la justicia social y ambiental. 
-    - Libro _Tiempos de Colapso_, los pueblos en movimiento de Raúl Zibechi.
+- 12:45 a 13:30 PRESENTACIÓN DEL LIBRO COLECTIVO_Tiempos de Colapso_. Berta Iglesias y autoras.
+
+- 13:30 a 14:30 RESPUESTA AL COLAPSO DE LOS PUEBLOS ORIGINARIOS DE AMÉRICA. Victor A. Hernández de la Nación Mapuche.
+
+14:30 a 15 CIERRE DE LA SESIÓN Y VALORACIÓN
+
+Al final del encuentro habrá comida conjunta (cada una lleva su propia comida). En la parroquia hay cubiertos y espacio adecuado para comer juntas guardando el distanciamiento social.
+
+Nota: Tras las exposiciones de cada temática habrá un tiempo de dialogo entre todas las asistentes en plenario.
 
 Para inscribirte debes rellenar el siguiente [formulario](https://www.coordinacionbaladre.org/encuentro/tiempo-colapso#overlay-context=). No lo dejes para muy tarde ya que el aforo es limitado.
 
