@@ -1,7 +1,13 @@
 {
 	"version": 3,
 	"file": "style.min.css",
+<<<<<<< HEAD
 	"sourceRoot": "/run/media/alf/datos/web/web-escuela-ramon-fdez",
+||||||| 606ace6
+	"sourceRoot": "/datos/web/web-escuela-ramon-fdez",
+=======
+	"sourceRoot": "/home/alf/web/web-escuela-ramon-fdez",
+>>>>>>> 38f0f3bf823eebfa9b2430b7ffdcd3e1af01e823
 	"sources": [
 		"themes/LoveIt/assets/css/style.scss",
 		"themes/LoveIt/assets/css/_variables.scss",
