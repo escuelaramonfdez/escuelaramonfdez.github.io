@@ -3,9 +3,18 @@
         <title>Escuela Ramón Fernández Durán</title>
         <link>https://escuelaramonfdez.org/</link>
         <description>This is My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Mon, 21 Jun 2021 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 02 Sep 2021 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://escuelaramonfdez.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Últimas plazas para la Escuela 2021</title>
+    <link>https://escuelaramonfdez.org/posts/ultimas-plazas-2021/</link>
+    <pubDate>Thu, 02 Sep 2021 00:00:00 &#43;0000</pubDate>
+    <author>Autor</author>
+    <guid>https://escuelaramonfdez.org/posts/ultimas-plazas-2021/</guid>
+    <description><![CDATA[Ya solo faltan dos semanas para el comienzo de la Escuela Ramón Fernández Durán 2021 y estamos trabajando en los últimos detalles para que sea todo un éxito.
+Tenemos ganas de volvernos a ver físicamente para hablar, compartir y celebrar, que no queremos que ninguna os lo perdáis.
+Ya quedan pocos alojamientos libres en el proyecto Basoa de Artea, y aunque estamos gestionado nuevos alojamientos lo más cerca posible, os animamos a inscribiros ya mismo para no quedaros sin plaza.]]></description>
+</item><item>
     <title>Vuelve La Escuela Ramón Fernández Durán</title>
     <link>https://escuelaramonfdez.org/posts/vuelve-la-escuela/</link>
     <pubDate>Mon, 21 Jun 2021 00:00:00 &#43;0000</pubDate>
@@ -79,12 +88,5 @@ Este año volvemos de nuevo a Garaldea para continuar el trabajo desarrollado el
     <guid>https://escuelaramonfdez.org/posts/final-escuela-2016/</guid>
     <description><![CDATA[Caras de satisfacción y alegría a la conclusión de esta segunda edición de la Escuela Social Ramón Fernandez Durán, tras un intenso fin de semana de análisis y reflexiones compartidas para construir juntas estrategias de lucha y propositivas para superar el sistema Capitalista.
 Este año la participación ha doblado la de la primera edición llegando casi al centenar de personas, y a juzgar por las caras de satisfacción aventuramos que la próxima edición se superará esta cifra.]]></description>
-</item><item>
-    <title>Últimas plazas para la Escuela Social 2016</title>
-    <link>https://escuelaramonfdez.org/posts/ultimas-plazas-2016/</link>
-    <pubDate>Thu, 14 Apr 2016 00:00:00 &#43;0000</pubDate>
-    <author>Autor</author>
-    <guid>https://escuelaramonfdez.org/posts/ultimas-plazas-2016/</guid>
-    <description><![CDATA[A falta de una semana para el comienzo de la 2ª edición de la Escuela Social Ramón Fernández Durán nos es grato comunicar que ya casi no quedan plazas, lo cual supone todo un gran éxito para esta edición. Algo que no es de extrañar dado el programa de contenidos tan interesante que plantea este encuentro y el cartel de ponentes que los abordará, entre los que figuran experto/as de renombre como Raúl Cibechi, Josep Manel Busqueta, Amaia Pérez Orozco, Ángel Calle, Tom Kucharz o Luis González Reyes.]]></description>
 </item></channel>
 </rss>
