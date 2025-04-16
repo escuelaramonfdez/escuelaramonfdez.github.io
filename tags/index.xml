@@ -1,7 +1,13 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Tags - Etiqueta - </title>
-        <link>https://escuelaramonfdez.org/tags/</link>
-        <description>Tags - Etiqueta - </description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><atom:link href="https://escuelaramonfdez.org/tags/" rel="self" type="application/rss+xml" /></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Escuela Ramón Fernández Durán</title>
+    <link>https://escuelaramonfdez.org/tags/</link>
+    <description>Recent content in Tags on Escuela Ramón Fernández Durán</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <managingEditor>escueraramonfdez@riseup.net (Editor)</managingEditor>
+    <webMaster>escueraramonfdez@riseup.net (Editor)</webMaster>
+    <atom:link href="https://escuelaramonfdez.org/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>
