@@ -2,6 +2,24 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://escuelaramonfdez.org/gl/</loc><lastmod>2025-04-10T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="https://escuelaramonfdez.org/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="gl"
+                    href="https://escuelaramonfdez.org/gl/"
+                    /></url><url>
+            <loc>https://escuelaramonfdez.org/gl/presentacion/</loc><lastmod>2025-04-10T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="https://escuelaramonfdez.org/presentacion/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="gl"
+                    href="https://escuelaramonfdez.org/gl/presentacion/"
+                    /></url><url>
             <loc>https://escuelaramonfdez.org/gl/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="es"
@@ -11,16 +29,16 @@
                     hreflang="gl"
                     href="https://escuelaramonfdez.org/gl/categories/"
                     /></url><url>
-            <loc>https://escuelaramonfdez.org/gl/gl/contenidos/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://escuelaramonfdez.org/gl/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://escuelaramonfdez.org/gl/contenidos/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="es"
-                        href="https://escuelaramonfdez.org/"
+                        href="https://escuelaramonfdez.org/contenidos/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="gl"
-                    href="https://escuelaramonfdez.org/gl/"
+                    href="https://escuelaramonfdez.org/gl/contenidos/"
                     /></url><url>
+            <loc>https://escuelaramonfdez.org/gl/gl/contenidos/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://escuelaramonfdez.org/gl/gl/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="es"
@@ -30,8 +48,19 @@
                     hreflang="gl"
                     href="https://escuelaramonfdez.org/gl/gl/"
                     /></url><url>
-            <loc>https://escuelaramonfdez.org/gl/gl/inscripcion/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://escuelaramonfdez.org/gl/gl/logistica/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://escuelaramonfdez.org/gl/gl/inscricion/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://escuelaramonfdez.org/gl/inscricion/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://escuelaramonfdez.org/gl/gl/loxistica/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://escuelaramonfdez.org/gl/loxistica/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://escuelaramonfdez.org/gl/organizadores/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="https://escuelaramonfdez.org/organizadores/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="gl"
+                    href="https://escuelaramonfdez.org/gl/organizadores/"
+                    /></url><url>
             <loc>https://escuelaramonfdez.org/gl/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="es"
