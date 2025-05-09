@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Escola Ramón Fernández Durán</title>
-        <link>https://escuelaramonfdez.org/gl/</link>
-        <description>La escuela de los movimientos sociales</description>
+        <title>Todos los Artículos - Escola Ramón Fernández Durán</title>
+        <link>https://escuelaramonfdez.org/gl/posts/</link>
+        <description>Todos los Artículos | Escola Ramón Fernández Durán</description>
         <generator>Hugo -- gohugo.io</generator><language>gl</language><managingEditor>escueraramonfdez@riseup.net (Editora)</managingEditor>
-            <webMaster>escueraramonfdez@riseup.net (Editora)</webMaster><lastBuildDate>Thu, 08 May 2025 00:00:00 &#43;0000</lastBuildDate>
-            <atom:link href="https://escuelaramonfdez.org/gl/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>escueraramonfdez@riseup.net (Editora)</webMaster><lastBuildDate>Thu, 08 May 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://escuelaramonfdez.org/gl/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Unha escola para a supervivencia</title>
     <link>https://escuelaramonfdez.org/gl/posts/escola-supervivencia/</link>
     <pubDate>Thu, 08 May 2025 00:00:00 &#43;0000</pubDate>
