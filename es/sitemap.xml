@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://escuelaramonfdez.org/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="gl" href="https://escuelaramonfdez.org/gl/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://escuelaramonfdez.org/"/>
   </url>
   <url>
-    <loc>https://escuelaramonfdez.org/posts/escuela-2026/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <loc>https://escuelaramonfdez.org/posts/promocion-escuela-2026/</loc>
+    <lastmod>2026-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://escuelaramonfdez.org/posts/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="gl" href="https://escuelaramonfdez.org/gl/posts/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://escuelaramonfdez.org/posts/"/>
+  </url>
+  <url>
+    <loc>https://escuelaramonfdez.org/posts/escuela-2026/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://escuelaramonfdez.org/presentacion/</loc>
