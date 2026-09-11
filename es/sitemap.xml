@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://escuelaramonfdez.org/posts/ampliacion-inscripcion-2026/</loc>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://escuelaramonfdez.org/</loc>
-    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="gl" href="https://escuelaramonfdez.org/gl/"/>
@@ -10,7 +16,7 @@
   </url>
   <url>
     <loc>https://escuelaramonfdez.org/posts/</loc>
-    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="gl" href="https://escuelaramonfdez.org/gl/posts/"/>
